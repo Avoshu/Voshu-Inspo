@@ -190,6 +190,24 @@ Read-only scan of `F:\PROJECTS\INSPO` on 2026-11-12. **No local files were moved
 | VoiceStudio-main | Not identified | Needs inspection |
 | whisper.cpp | [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Git origin |
 
+
+## Second-pass archive investigation — 2026-11-12
+
+**All 136 top-level folders are recorded.** A second read-only scan inspected the 12 entries without Git remotes. Six have probable source repositories from their local documentation, and GitHub existence was verified; these are **not** confirmed byte-identical copies. The remaining six are cataloged as local-only or unresolved. The machine-readable `data/local-inspo.json` contains the updated match provenance.
+
+| Folder | Probable source | Confidence |
+|---|---|---|
+| Ada-SI | [nazirlouis/Ada-SI](https://github.com/nazirlouis/Ada-SI) | Documentation match |
+| codebuff-main | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Documentation match |
+| decisionsai-main | [tensology/decisionsai](https://github.com/tensology/decisionsai) | Documentation match |
+| ryu-main | [amajorai/ryu](https://github.com/amajorai/ryu) | Documentation match |
+| ryu-main-inspo | [amajorai/ryu](https://github.com/amajorai/ryu) | Documentation match; potentially modified variant |
+| VoiceStudio-main | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Documentation match |
+
+**Local-only/unresolved:** `.freebuff`, `ai-workbench`, `inspo-showcase`, `pingsystem`, `_MEGA_LIBRARY`, `_reports`. These contain local data or generated work; do not assume they are safely replaceable with GitHub links. The root `VoiceStudio-main.zip` (45,992,534 bytes) is recorded but has not been uploaded or checked for duplicate contents.
+
+**Important:** This is a complete *top-level folder index*, not a verified backup or a full file-by-file manifest. Nested files, local modifications, model weights, media, and generated artifacts still require preservation review. No local files have been changed.
+
 ## Preservation rules
 
 - Keep all local originals intact until an explicit later cleanup approval.
