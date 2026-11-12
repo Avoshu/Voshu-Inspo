@@ -12,6 +12,10 @@ A curated, continuously updated index of tools, repositories, design references,
 - [Discovery workflow](.github/workflows/discover.yml) — scheduled indexing
 
 
+## Official Labs & Creators
+
+Following **Microsoft, Meta Research, Hugging Face, ByteDance, Cloudflare, Vercel, and LangChain** for open-source gems and original creator projects. See the [organization watchlist](OFFICIAL-LABS.md) and [machine-readable watchlist](data/organizations.json). Individual projects still require verification and license review before adoption.
+
 ## Digitized local collection
 
 - [Local INSPO inventory](LOCAL-INVENTORY.md) — 136 folders, 124 Git origins, 6 probable documentation matches, 6 local-only/unresolved entries; local originals untouched.
