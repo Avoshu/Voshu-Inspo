@@ -3,15 +3,17 @@
     "folder": ".freebuff",
     "origin": null,
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   },
   {
     "folder": "Ada-SI",
-    "origin": null,
+    "origin": "https://github.com/nazirlouis/Ada-SI",
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "aether-studio",
@@ -52,8 +54,9 @@
     "folder": "ai-workbench",
     "origin": null,
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   },
   {
     "folder": "aider",
@@ -260,10 +263,11 @@
   },
   {
     "folder": "codebuff-main",
-    "origin": null,
+    "origin": "https://github.com/CodebuffAI/codebuff",
     "category": "Developer Tools",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "cognee",
@@ -309,10 +313,11 @@
   },
   {
     "folder": "decisionsai-main",
-    "origin": null,
+    "origin": "https://github.com/tensology/decisionsai",
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "desktop-notifier",
@@ -388,8 +393,9 @@
     "folder": "inspo-showcase",
     "origin": null,
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   },
   {
     "folder": "ip-as-logo-skill",
@@ -703,8 +709,9 @@
     "folder": "pingsystem",
     "origin": null,
     "category": "Infrastructure",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   },
   {
     "folder": "pipecat",
@@ -785,17 +792,19 @@
   },
   {
     "folder": "ryu-main",
-    "origin": null,
+    "origin": "https://github.com/amajorai/ryu",
     "category": "Developer Tools",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "ryu-main-inspo",
-    "origin": null,
+    "origin": "https://github.com/amajorai/ryu",
     "category": "Developer Tools",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "sentence-transformers",
@@ -904,10 +913,11 @@
   },
   {
     "folder": "VoiceStudio-main",
-    "origin": null,
+    "origin": "https://github.com/debpalash/VoiceStudio",
     "category": "Voice & Audio",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Probable origin from local documentation; GitHub repository existence verified; not a Git remote",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "README or local documentation"
   },
   {
     "folder": "webstudio",
@@ -941,14 +951,16 @@
     "folder": "_MEGA_LIBRARY",
     "origin": null,
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   },
   {
     "folder": "_reports",
     "origin": null,
     "category": "Other",
-    "status": "Unresolved / local-only",
-    "source": "F:\\PROJECTS\\INSPO"
+    "status": "Local-only or unresolved; indexed without external origin",
+    "source": "F:\\PROJECTS\\INSPO",
+    "match_method": "Read-only local scan"
   }
 ]
