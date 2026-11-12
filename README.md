@@ -246,6 +246,22 @@ _Automated daily discoveries appear here after the first successful scan. The fu
 
 *Automated daily discoveries will appear above this permanent library. Local source links are not backups of local modifications.*
 
+### NVIDIA, Google, Microsoft, Meta & more — research spotlight
+
+**19 verified public repositories** across agent frameworks, inference, desktop automation, protocols, and creative tooling. [Browse the categorized research report](reports/daily/2026-11-12-major-orgs.md).
+
+| Organization | Highlight | Voshu fit |
+|---|---|---|
+| NVIDIA | [NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Agent orchestration |
+| NVIDIA | [NemoClaw](https://github.com/NVIDIA/NemoClaw) | Commander sandboxing |
+| NVIDIA | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | Router inference |
+| Google | [ADK](https://github.com/google/adk-python) | Agent runtime |
+| Google | [agents-cli](https://github.com/google/agents-cli) | Agent development |
+| Microsoft | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation |
+| ByteDance | [Deer Flow](https://github.com/bytedance/deer-flow) | Long-running agents |
+| ByteDance | [FlowGram](https://github.com/bytedance/flowgram.ai) | Atlas workflows |
+| Cloudflare | [Agents](https://github.com/cloudflare/agents) | Durable execution |
+
 ## Initial shortlist
 
 | Repository | Purpose | Voshu application |
