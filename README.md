@@ -262,6 +262,21 @@ _Automated daily discoveries appear here after the first successful scan. The fu
 | ByteDance | [FlowGram](https://github.com/bytedance/flowgram.ai) | Atlas workflows |
 | Cloudflare | [Agents](https://github.com/cloudflare/agents) | Durable execution |
 
+### Trending gems — November 12
+
+**20 additional verified GitHub projects** spanning agent skills, creative tooling, memory, research, and agent consoles. [Browse all 20 discoveries](reports/daily/2026-11-12-trending-gems.md).
+
+| Gem | Why it matters |
+|---|---|
+| [Superpowers](https://github.com/obra/superpowers) | Engineering workflow skills |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Better agent-generated UI |
+| [Hyperframes](https://github.com/heygen-com/hyperframes) | HTML-to-video pipeline |
+| [Graphify](https://github.com/Graphify-Labs/graphify) | Codebase knowledge graphs |
+| [Claude Mem](https://github.com/thedotmack/claude-mem) | Persistent agent context |
+| [OpenHarness](https://github.com/autonomous-ai/openharness) | Multi-agent control center |
+| [BossConsole](https://github.com/risa-labs-inc/BossConsole) | Native agent operator console |
+| [NVIDIA Auto Ontology](https://github.com/NVIDIA/auto-ontology) | Semantic reasoning over data |
+
 ## Initial shortlist
 
 | Repository | Purpose | Voshu application |
