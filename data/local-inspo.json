@@ -1,0 +1,954 @@
+[
+  {
+    "folder": ".freebuff",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Ada-SI",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "aether-studio",
+    "origin": "https://github.com/sapphireprod/aether-studio",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "agency-agents-app",
+    "origin": "https://github.com/msitarzewski/agency-agents-app",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Agent-Reach",
+    "origin": "https://github.com/Panniantong/Agent-Reach",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Agent-S",
+    "origin": "https://github.com/simular-ai/Agent-S",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ai-brain",
+    "origin": "https://github.com/UriahNegbi/ai-brain",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ai-workbench",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "aider",
+    "origin": "https://github.com/Aider-AI/aider",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-backstage",
+    "origin": "https://github.com/amajorai/backstage",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-context.md",
+    "origin": "https://github.com/amajorai/context.md",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-excalidesk",
+    "origin": "https://github.com/amajorai/excalidesk",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-fix.md",
+    "origin": "https://github.com/amajorai/fix.md",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-ghost",
+    "origin": "https://github.com/amajorai/ghost",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-hiroba",
+    "origin": "https://github.com/amajorai/hiroba",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-layer0",
+    "origin": "https://github.com/amajorai/layer0",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-outpost",
+    "origin": "https://github.com/amajorai/outpost",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-shadow",
+    "origin": "https://github.com/amajorai/shadow",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-ship.md",
+    "origin": "https://github.com/amajorai/ship.md",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-skills",
+    "origin": "https://github.com/amajorai/skills",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-slideck",
+    "origin": "https://github.com/amajorai/slideck",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-spec.md",
+    "origin": "https://github.com/amajorai/spec.md",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-torii",
+    "origin": "https://github.com/amajorai/torii",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amajorai-updatenight-mcp",
+    "origin": "https://github.com/amajorai/updatenight-mcp",
+    "category": "MCP & Integrations",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "amphion",
+    "origin": "https://github.com/open-mmlab/amphion",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "apprise",
+    "origin": "https://github.com/caronc/apprise",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Arcus voice core inspo",
+    "origin": "https://github.com/FatihMakes/Mark-XLVI",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "audiocraft",
+    "origin": "https://github.com/facebookresearch/audiocraft",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Avoshu.com inspo",
+    "origin": "https://github.com/jiaweing/portfolio-dex",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "bb",
+    "origin": "https://github.com/get-bb/bb",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "best-of-mcp-servers",
+    "origin": "https://github.com/tolkonepiu/best-of-mcp-servers",
+    "category": "MCP & Integrations",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "browser-use",
+    "origin": "https://github.com/browser-use/browser-use",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "bytebot",
+    "origin": "https://github.com/bytebot-ai/bytebot",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "cal.diy",
+    "origin": "https://github.com/calcom/cal.diy",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "claude-code",
+    "origin": "https://github.com/tanbiralam/claude-code",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "clawdcursor",
+    "origin": "https://github.com/AmrDab/clawdcursor",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "clicky",
+    "origin": "https://github.com/farzaa/clicky",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "codebuff-main",
+    "origin": null,
+    "category": "Developer Tools",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "cognee",
+    "origin": "https://github.com/topoteretes/cognee",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "colibri",
+    "origin": "https://github.com/JustVugg/colibri",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "core",
+    "origin": "https://github.com/home-assistant/core",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "COUCOU",
+    "origin": "https://github.com/Louis-CFM/coucou",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "crawl4ai",
+    "origin": "https://github.com/unclecode/crawl4ai",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "crewAI",
+    "origin": "https://github.com/crewAIInc/crewAI",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "decisionsai-main",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "desktop-notifier",
+    "origin": "https://github.com/samschott/desktop-notifier",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "distil-whisper",
+    "origin": "https://github.com/huggingface/distil-whisper",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "docling",
+    "origin": "https://github.com/docling-project/docling",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ecc",
+    "origin": "https://github.com/affaan-m/ecc",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "F5-TTS",
+    "origin": "https://github.com/SWivid/F5-TTS",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "fastembed",
+    "origin": "https://github.com/qdrant/fastembed",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "grapesjs",
+    "origin": "https://github.com/GrapesJS/grapesjs",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "healthchecks",
+    "origin": "https://github.com/healthchecks/healthchecks",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "hermes-agent",
+    "origin": "https://github.com/NousResearch/hermes-agent",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "inbox-zero",
+    "origin": "https://github.com/elie222/inbox-zero",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "inspo-showcase",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ip-as-logo-skill",
+    "origin": "https://github.com/s1dashu/ip-as-logo-skill",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "IRIS-AI",
+    "origin": "https://github.com/IRISX-AI/IRIS-AI",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jev-voice",
+    "origin": "https://github.com/kevinbadi/jev-voice",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-agoda-agent",
+    "origin": "https://github.com/jiaweing/agoda-agent",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-docling-api",
+    "origin": "https://github.com/jiaweing/docling-api",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-localLLM-api",
+    "origin": "https://github.com/jiaweing/localLLM-api",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-localRAG-api",
+    "origin": "https://github.com/jiaweing/localRAG-api",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-ui",
+    "origin": "https://github.com/jiaweing/ui",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "jiaweing-updatenight-agent",
+    "origin": "https://github.com/jiaweing/updatenight-agent",
+    "category": "MCP & Integrations",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Kokoro-TTS-Local",
+    "origin": "https://github.com/PierrunoYT/Kokoro-TTS-Local",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "lancedb",
+    "origin": "https://github.com/lancedb/lancedb",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "laya",
+    "origin": "https://github.com/receptron/laya",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "layla-assistant",
+    "origin": "https://github.com/nyang01/layla-assistant",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Libraries",
+    "origin": "https://github.com/Jakubantalik/Libraries",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "llmfit",
+    "origin": "https://github.com/AlexsJones/llmfit",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "mail-parser",
+    "origin": "https://github.com/SpamScope/mail-parser",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "manim",
+    "origin": "https://github.com/3b1b/manim",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Mark-XLIX",
+    "origin": "https://github.com/FatihMakes/Mark-XLIX",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Mark-XLVIII",
+    "origin": "https://github.com/FatihMakes/Mark-XLVIII",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "marker",
+    "origin": "https://github.com/VikParuchuri/marker",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "mcp-servers",
+    "origin": "https://github.com/modelcontextprotocol/servers",
+    "category": "MCP & Integrations",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "MemOS",
+    "origin": "https://github.com/MemTensor/MemOS",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "MiniMax-M3",
+    "origin": "https://github.com/MiniMax-AI/MiniMax-M3",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "moonshine",
+    "origin": "https://github.com/usefulsensors/moonshine",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "morphicons",
+    "origin": "https://github.com/guillermolg00/morphicons",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "netdata",
+    "origin": "https://github.com/netdata/netdata",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "neuralagentAI",
+    "origin": "https://github.com/skyiron/neuralagentAI",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "obs-studio",
+    "origin": "https://github.com/obsproject/obs-studio",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OmniParser",
+    "origin": "https://github.com/microsoft/OmniParser",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OmniRoute",
+    "origin": "https://github.com/diegosouzapw/OmniRoute",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "open-design",
+    "origin": "https://github.com/nexu-io/open-design",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "open-interpreter",
+    "origin": "https://github.com/OpenInterpreter/open-interpreter",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Open-Jev",
+    "origin": "https://github.com/Zefan-Cai/Open-Jev",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "open-webui",
+    "origin": "https://github.com/open-webui/open-webui",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OpenAgentd",
+    "origin": "https://github.com/lthoangg/OpenAgentd",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "openclaw",
+    "origin": "https://github.com/openclaw/openclaw",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OpenDots",
+    "origin": "https://github.com/CopilotKit/OpenDots",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OpenHands",
+    "origin": "https://github.com/OpenHands/OpenHands",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "openhuman",
+    "origin": "https://github.com/tinyhumansai/openhuman",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OpenSwarm",
+    "origin": "https://github.com/VRSEN/OpenSwarm",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "OpenViking",
+    "origin": "https://github.com/volcengine/OpenViking",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "PaddleOCR",
+    "origin": "https://github.com/PaddlePaddle/PaddleOCR",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "paho.mqtt.python",
+    "origin": "https://github.com/eclipse-paho/paho.mqtt.python",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "phone-harness",
+    "origin": "https://github.com/phone-harness/phone-harness",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "pingsystem",
+    "origin": null,
+    "category": "Infrastructure",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "pipecat",
+    "origin": "https://github.com/pipecat-ai/pipecat",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "pokey-releases",
+    "origin": "https://github.com/mikekosenkov/pokey-releases",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "prime-agent",
+    "origin": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "private-agent",
+    "origin": "https://github.com/orailnoor/private-agent",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "psutil",
+    "origin": "https://github.com/giampaolo/psutil",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "pyannote-audio",
+    "origin": "https://github.com/pyannote/pyannote-audio",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "qdrant",
+    "origin": "https://github.com/qdrant/qdrant",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "RealtimeSTT",
+    "origin": "https://github.com/KoljaB/RealtimeSTT",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "RealtimeTTS",
+    "origin": "https://github.com/KoljaB/RealtimeTTS",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ruflo",
+    "origin": "https://github.com/ruvnet/ruflo",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ryu",
+    "origin": "https://github.com/amajorai/ryu",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ryu-main",
+    "origin": null,
+    "category": "Developer Tools",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "ryu-main-inspo",
+    "origin": null,
+    "category": "Developer Tools",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "sentence-transformers",
+    "origin": "https://github.com/UKPLab/sentence-transformers",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "server",
+    "origin": "https://github.com/gotify/server",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "sesame-csm",
+    "origin": "https://github.com/SesameAILabs/csm",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "sesame_csm_openai",
+    "origin": "https://github.com/phildougherty/sesame_csm_openai",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "silero-vad",
+    "origin": "https://github.com/snakers4/silero-vad",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "smolagents",
+    "origin": "https://github.com/huggingface/smolagents",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "spacedrive",
+    "origin": "https://github.com/spacedriveapp/spacedrive",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "suna",
+    "origin": "https://github.com/kortix-ai/suna",
+    "category": "Agent Frameworks",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "supermemory",
+    "origin": "https://github.com/supermemoryai/supermemory",
+    "category": "Memory & Knowledge",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "tabby",
+    "origin": "https://github.com/TabbyML/tabby",
+    "category": "Developer Tools",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "tagspaces",
+    "origin": "https://github.com/tagspaces/tagspaces",
+    "category": "Other",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "tantivy",
+    "origin": "https://github.com/quickwit-oss/tantivy",
+    "category": "Models & Inference",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "taste-skill",
+    "origin": "https://github.com/leonxlnx/taste-skill",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "trigger.dev",
+    "origin": "https://github.com/triggerdotdev/trigger.dev",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "UI-TARS-desktop",
+    "origin": "https://github.com/bytedance/UI-TARS-desktop",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "VoiceStudio-main",
+    "origin": null,
+    "category": "Voice & Audio",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "webstudio",
+    "origin": "https://github.com/webstudio-is/webstudio",
+    "category": "Design & UX",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "whisper.cpp",
+    "origin": "https://github.com/ggerganov/whisper.cpp",
+    "category": "Voice & Audio",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "windmill",
+    "origin": "https://github.com/windmill-labs/windmill",
+    "category": "Infrastructure",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "Windows-MCP",
+    "origin": "https://github.com/CursorTouch/Windows-MCP",
+    "category": "Desktop & Browser",
+    "status": "Origin from local Git config",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "_MEGA_LIBRARY",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  },
+  {
+    "folder": "_reports",
+    "origin": null,
+    "category": "Other",
+    "status": "Unresolved / local-only",
+    "source": "F:\\PROJECTS\\INSPO"
+  }
+]
