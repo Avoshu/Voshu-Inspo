@@ -11,6 +11,13 @@ A curated, continuously updated index of tools, repositories, design references,
 - [Daily discovery reports](reports/daily/) — new projects and scan status
 - [Discovery workflow](.github/workflows/discover.yml) — scheduled indexing
 
+
+## Digitized local collection
+
+- [Local INSPO inventory](LOCAL-INVENTORY.md) — 136 folders, 124 Git origins, 12 unresolved entries; local originals untouched.
+- [Local inventory JSON](data/local-inspo.json) — machine-readable folder-to-origin mapping.
+- [New discoveries, November 12](reports/daily/2026-11-12-curated.md) — 10 additional verified public repositories, categorized for review.
+
 ## Initial shortlist
 
 | Repository | Purpose | Voshu application |
