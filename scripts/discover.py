@@ -21,6 +21,25 @@ def table(rows):
   clean=lambda x:str(x or '—').replace('|','/').replace('\n',' ')[:120]
   out.append(f"| [{r['repo']}]({r['url']}) | {clean(r['purpose'])} | {r['category']} | {r['stars']:,} | {str(r['last_push'] or '')[:10]} | {clean(r['voshu_use'])} |")
  return '\n'.join(out)+'\n'
+
+def refresh_readme(rows, new):
+    path=root/'README.md'
+    content=path.read_text(encoding='utf-8')
+    start='<!-- AUTO-DISCOVERIES:START -->'
+    end='<!-- AUTO-DISCOVERIES:END -->'
+    if start not in content or end not in content:
+        raise RuntimeError('README discovery markers missing; refusing to overwrite manual content')
+    recent=sorted(rows,key=lambda r:r.get('last_checked',''),reverse=True)
+    picked=(new[:12] if new else recent[:12])
+    lines=['**Cataloged repositories:** '+str(len(rows))+' | **Last scan:** '+today+' | [Full catalog](CATALOG.md) | [Local collection](LOCAL-INVENTORY.md)', '', '| Repository | Category | Purpose |', '|---|---|---|']
+    for r in picked:
+        purpose=(r.get('purpose') or 'Description unavailable').replace('|','/').replace('\\n',' ')[:105]
+        lines.append(f"| [{r['repo']}]({r['url']}) | {r['category']} | {purpose} |")
+    lines+=['',f'[Discovery report for {today}](reports/daily/{today}.md)']
+    left,tail=content.split(start,1)
+    _,right=tail.split(end,1)
+    path.write_text(left+start+'\\n'+'\\n'.join(lines)+'\\n'+end+right,encoding='utf-8')
+
 def main():
  file=root/'data/repositories.json'; old={r['repo']:r for r in json.loads(file.read_text())} if file.exists() else {}; found={};errors=[]
  for name in seeds:
@@ -39,8 +58,9 @@ def main():
   merged[name]={'repo':name,'url':r['html_url'],'purpose':r.get('description') or '','category':prev.get('category') or cat(r),'stars':r.get('stargazers_count',0),'language':r.get('language'),'license':(r.get('license') or {}).get('spdx_id'),'last_push':r.get('pushed_at'),'last_checked':today,'score':round(math.log1p(r.get('stargazers_count',0))*2+max(0,20-age/7),1),'voshu_use':prev.get('voshu_use','Needs review'),'review_status':prev.get('review_status','Unreviewed'),'notes':prev.get('notes','')}
  rows=sorted(merged.values(),key=lambda r:r.get('score',0),reverse=True)
  file.parent.mkdir(parents=True,exist_ok=True);file.write_text(json.dumps(rows,indent=2,ensure_ascii=False)+'\n')
- (root/'CATALOG.md').write_text('# Voshu Inspo — Repository Catalog\\n\\nAuto-refreshed metadata; scores are discovery heuristics, not endorsements.\\n\\n'+table(rows))
+ (root/'CATALOG.md').write_text('# Voshu Inspo — Repository Catalog\n\nAuto-refreshed metadata; scores are discovery heuristics, not endorsements.\n\n'+table(rows))
  new=[merged[n] for n in found if n not in old];reports=root/'reports/daily';reports.mkdir(parents=True,exist_ok=True)
- (reports/(today+'.md')).write_text(f'# Discovery — {today}\\n\\nScanned {len(found)} repositories; {len(new)} new; {len(errors)} API errors.\\n\\n'+(table(new) if new else 'No new discoveries.\\n')+'\\n## Errors\\n\\n'+('\n'.join('- '+e for e in errors) if errors else 'None')+'\n')
+ (reports/(today+'.md')).write_text(f'# Discovery — {today}\n\nScanned {len(found)} repositories; {len(new)} new; {len(errors)} API errors.\n\n'+(table(new) if new else 'No new discoveries.\n')+'\\n## Errors\n\n'+('\n'.join('- '+e for e in errors) if errors else 'None')+'\n')
+ refresh_readme(rows,new)
  print(f'{len(rows)} indexed, {len(new)} new, {len(errors)} errors')
 if __name__=='__main__':main()
