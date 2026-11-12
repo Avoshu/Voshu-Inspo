@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-12",
+  "organizations": [
+    {
+      "github": "microsoft",
+      "name": "Microsoft",
+      "focus": "Developer platforms, AI agents, infrastructure",
+      "url": "https://github.com/microsoft",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "facebookresearch",
+      "name": "Meta Research",
+      "focus": "Open models, computer vision, multimodal research",
+      "url": "https://github.com/facebookresearch",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "huggingface",
+      "name": "Hugging Face",
+      "focus": "Open models, datasets, inference, agents",
+      "url": "https://github.com/huggingface",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "bytedance",
+      "name": "ByteDance",
+      "focus": "Agent frameworks, interface systems, media technology",
+      "url": "https://github.com/bytedance",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "cloudflare",
+      "name": "Cloudflare",
+      "focus": "Edge compute, durable agents, networking",
+      "url": "https://github.com/cloudflare",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "vercel",
+      "name": "Vercel",
+      "focus": "AI SDKs, frontend tools, agent applications",
+      "url": "https://github.com/vercel",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "langchain-ai",
+      "name": "LangChain",
+      "focus": "Agent frameworks, orchestration, evaluation",
+      "url": "https://github.com/langchain-ai",
+      "priority": "high",
+      "status": "watchlisted"
+    }
+  ]
+}
