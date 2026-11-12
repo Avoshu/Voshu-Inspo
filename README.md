@@ -14,9 +14,15 @@ A curated, continuously updated index of tools, repositories, design references,
 
 ## Digitized local collection
 
-- [Local INSPO inventory](LOCAL-INVENTORY.md) — 136 folders, 124 Git origins, 12 unresolved entries; local originals untouched.
+- [Local INSPO inventory](LOCAL-INVENTORY.md) — 136 folders, 124 Git origins, 6 probable documentation matches, 6 local-only/unresolved entries; local originals untouched.
 - [Local inventory JSON](data/local-inspo.json) — machine-readable folder-to-origin mapping.
 - [New discoveries, November 12](reports/daily/2026-11-12-curated.md) — 10 additional verified public repositories, categorized for review.
+
+## Latest discovered repositories
+
+<!-- AUTO-DISCOVERIES:START -->
+_The next discovery scan will populate this section automatically._
+<!-- AUTO-DISCOVERIES:END -->
 
 ## Initial shortlist
 
