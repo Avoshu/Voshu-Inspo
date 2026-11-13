@@ -272,3 +272,16 @@ Origin and README verified; license and exact activity pending. Not approved for
 | [dagger/dagger](https://github.com/dagger/dagger) | Developer Tools & CI | Apache-2.0 | Containerized reproducible build/test pipeline for Voshu repositories and agent worktrees. | [3991a28b](https://github.com/dagger/dagger/commit/3991a28b9dbcfb6e9badbf35fa3b54e9419d07f2) |
 | [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) | Durable Agent Orchestration | Apache-2.0 | Long-running TypeScript jobs with self-hosting; benchmark against Hatchet and Inngest for onboarding. | [2fbd5c7c](https://github.com/triggerdotdev/trigger.dev/commit/2fbd5c7cf4e9c8e19b88e2b72a7133795611e33d) |
 | [yjs/yjs](https://github.com/yjs/yjs) | Realtime Collaboration & CRDT | MIT | Network-agnostic shared data and collaborative cursors for Atlas split panes and multi-agent editing. | [52396473](https://github.com/yjs/yjs/commit/52396473094be82868fe098f1f8d01d737478dbb) |
+
+
+## Verified research additions — 2026-11-13 02:00 ET
+
+| Repository | Category | License | Voshu relevance |
+|---|---|---|---|
+| [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) | MCP & Integrations | Apache-2.0 | Commander ACP sessions, identity and permission lifecycle |
+| [agentclientprotocol/typescript-sdk](https://github.com/agentclientprotocol/typescript-sdk) | MCP & Integrations | Apache-2.0 | Typed ACP clients and capability negotiation |
+| [agentclientprotocol/acp-tck](https://github.com/agentclientprotocol/acp-tck) | Security & Testing | Apache-2.0 | Session, cancellation and permission regression test design |
+| [rocicorp/mono](https://github.com/rocicorp/mono) | Local-first & Sync | Apache-2.0 | Zero/Replicache comparison for Voshu One and Atlas |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | Developer Tools | MIT | Reproducible Python environments for Voice and Compute |
+
+[Full dated scout report](reports/daily/2026-11-13-gpt-scout-0200.md). Research candidates only; no local F: drive audit performed.
