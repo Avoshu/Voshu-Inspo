@@ -307,3 +307,8 @@ The 136 local top-level folders have been indexed, but local files, modified cod
 GitHub Actions performs a scheduled discovery scan and updates the catalog. A separate ChatGPT daily research scout supplies editorial discoveries. The two pipelines are complementary; they are not yet automatically synchronized.
 
 *Voshu — Build with awareness.*
+
+
+## GPT Scout research — 2026-11-12
+
+[Eight origin-and-README-verified research candidates](reports/daily/2026-11-12-gpt-scout-2200.md) covering ComfyUI, OpenTofu, Flux, Temporal, Inngest, Electric, Cloudflare Agents and A2A. These are **research candidates, not deployment approvals**. Full catalog now has 246 entries; existing local files and manual notes remain untouched.
