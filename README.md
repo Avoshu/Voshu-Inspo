@@ -316,3 +316,8 @@ GitHub Actions performs a scheduled discovery scan and updates the catalog. A se
 ## Scout research — 2026-11-12 late pass
 
 Added 9 verified GitHub origins spanning visual workflow engines, durable agents, local-first synchronization, CRDT collaboration, infrastructure automation and reproducible CI. **Catalog total: 255.** See [the late research report](reports/daily/2026-11-12-gpt-scout-late.md) and [curated additions](CATALOG.md#verified-research-additions--2026-11-12-late-pass). Entries are research candidates, not deployment-approved; exact latest push timestamps remain unverified. Existing local folders were not inspected or modified in this pass.
+
+
+## GPT Scout — November 13, 2026
+
+Five original repositories added with GitHub README, license and commit evidence. **Catalog total: 260.** Focus: ACP protocol conformance, local-first sync and reproducible Python tooling. [Full report](reports/daily/2026-11-13-gpt-scout-0200.md). Existing manual notes and local files preserved.
