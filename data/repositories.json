@@ -4048,5 +4048,35 @@
     "voshu_use": "Node editor foundation for Voshu Atlas and visual workflow design",
     "review_status": "Original repository README and root LICENSE inspected; recent activity timestamp and deployment compatibility not independently verified",
     "notes": "Research only; no third-party code executed. GitHub repository search confirms not archived at review. Root LICENSE may not cover all subprojects."
+  },
+  {
+    "repo": "bpg/terraform-provider-proxmox",
+    "url": "https://github.com/bpg/terraform-provider-proxmox",
+    "purpose": "Terraform/OpenTofu provider for provisioning and managing Proxmox VE resources.",
+    "category": "Infrastructure & GitOps",
+    "stars": null,
+    "language": "Go",
+    "license": "MPL-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Evaluate declarative Proxmox VM and container provisioning for Voshu Compute and Host; test on staging only.",
+    "review_status": "Origin README and root license verified; recent activity pending",
+    "notes": "Original non-archived GitHub repository; README and MPL-2.0 root LICENSE inspected 2026-11-13. Push timestamp not verified."
+  },
+  {
+    "repo": "goauthentik/authentik",
+    "url": "https://github.com/goauthentik/authentik",
+    "purpose": "Self-hosted identity provider and access management platform.",
+    "category": "Security & Identity",
+    "stars": null,
+    "language": "Python",
+    "license": "Mixed; root LICENSE contains component-specific terms",
+    "last_push": null,
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Evaluate SSO and identity federation for Voshu Hub, Commander, and client administration; keep Commander tool authorization independent.",
+    "review_status": "Origin README verified; license requires component review",
+    "notes": "Original non-archived GitHub repository; README and root LICENSE inspected 2026-11-13. License is not uniformly permissive; push timestamp not verified."
   }
 ]
