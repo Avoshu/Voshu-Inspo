@@ -312,3 +312,7 @@ GitHub Actions performs a scheduled discovery scan and updates the catalog. A se
 ## GPT Scout research — 2026-11-12
 
 [Eight origin-and-README-verified research candidates](reports/daily/2026-11-12-gpt-scout-2200.md) covering ComfyUI, OpenTofu, Flux, Temporal, Inngest, Electric, Cloudflare Agents and A2A. These are **research candidates, not deployment approvals**. Full catalog now has 246 entries; existing local files and manual notes remain untouched.
+
+## Scout research — 2026-11-12 late pass
+
+Added 9 verified GitHub origins spanning visual workflow engines, durable agents, local-first synchronization, CRDT collaboration, infrastructure automation and reproducible CI. **Catalog total: 255.** See [the late research report](reports/daily/2026-11-12-gpt-scout-late.md) and [curated additions](CATALOG.md#verified-research-additions--2026-11-12-late-pass). Entries are research candidates, not deployment-approved; exact latest push timestamps remain unverified. Existing local folders were not inspected or modified in this pass.
