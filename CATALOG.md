@@ -242,3 +242,19 @@ Auto-refreshed metadata; scores are discovery heuristics, not endorsements.
 | [vahmoh/Veda](https://github.com/vahmoh/Veda) | The Agentic-Native Operating System | Desktop & Browser | 110 | 2026-11-08 | Needs review |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | Design & UX | 5,893 | 2026-08-29 | Needs review |
 | [vercel-labs/design-systems-to-agent-skills](https://github.com/vercel-labs/design-systems-to-agent-skills) | A repository to transform design systems into agent skills using the agent skill specification | Design & UX | 46 | 2026-05-01 | Needs review |
+
+
+## GPT Scout verified research queue — 2026-11-12
+
+Origin and README verified; license and exact activity pending. Not approved for deployment.
+
+| Repository | Category | Voshu relevance | Status |
+|---|---|---|---|
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | GPU Media & ComfyUI | Node-graph diffusion and media inference; candidate for Voshu Studios rendering workflows. | Research verified; license/activity pending |
+| [opentofu/opentofu](https://github.com/opentofu/opentofu) | Infrastructure as Code | Declarative infrastructure provisioning for Voshu Compute, Host and reproducible deployment. | Research verified; license/activity pending |
+| [fluxcd/flux2](https://github.com/fluxcd/flux2) | GitOps & Infrastructure | Kubernetes GitOps reconciliation for future Voshu fleet deployment. | Research verified; license/activity pending |
+| [temporalio/temporal](https://github.com/temporalio/temporal) | Durable Agent Orchestration | Durable workflows and recovery for long-running Commander tasks. | Research verified; license/activity pending |
+| [inngest/inngest](https://github.com/inngest/inngest) | Durable Agent Orchestration | Event-driven, resumable workflows for agent jobs, onboarding and outreach. | Research verified; license/activity pending |
+| [neondatabase/electric](https://github.com/neondatabase/electric) | Local-first & Realtime Sync | Postgres change streaming and client synchronization architecture for Voshu One. | Research verified; license/activity pending |
+| [cloudflare/agents](https://github.com/cloudflare/agents) | Durable Agent Orchestration | Durable Objects-based stateful agents for Router/Commander edge coordination. | Research verified; license/activity pending |
+| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent Protocols | Inter-agent interoperability reference for Commander and remote collaborators. | Research verified; license/activity pending |
