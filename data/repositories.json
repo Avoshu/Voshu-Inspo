@@ -9,7 +9,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T19:44:27Z",
     "last_checked": "2026-11-12",
-    "score": 45.0,
+    "score": 45,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -129,7 +129,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T15:43:13Z",
     "last_checked": "2026-11-12",
-    "score": 43.0,
+    "score": 43,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -474,7 +474,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T19:50:16Z",
     "last_checked": "2026-11-12",
-    "score": 40.0,
+    "score": 40,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -489,7 +489,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T17:13:17Z",
     "last_checked": "2026-11-12",
-    "score": 40.0,
+    "score": 40,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -504,7 +504,7 @@
     "license": "NOASSERTION",
     "last_push": "2026-11-12T19:43:56Z",
     "last_checked": "2026-11-12",
-    "score": 40.0,
+    "score": 40,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -834,7 +834,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T14:43:16Z",
     "last_checked": "2026-11-12",
-    "score": 38.0,
+    "score": 38,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -849,7 +849,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T19:48:19Z",
     "last_checked": "2026-11-12",
-    "score": 38.0,
+    "score": 38,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -864,7 +864,7 @@
     "license": "AGPL-3.0",
     "last_push": "2026-11-12T19:50:45Z",
     "last_checked": "2026-11-12",
-    "score": 38.0,
+    "score": 38,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -1134,7 +1134,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T15:20:40Z",
     "last_checked": "2026-11-12",
-    "score": 36.0,
+    "score": 36,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -1149,7 +1149,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T15:02:59Z",
     "last_checked": "2026-11-12",
-    "score": 36.0,
+    "score": 36,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -1389,7 +1389,7 @@
     "license": "AGPL-3.0",
     "last_push": "2026-11-12T18:06:41Z",
     "last_checked": "2026-11-12",
-    "score": 35.0,
+    "score": 35,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -1404,7 +1404,7 @@
     "license": "NOASSERTION",
     "last_push": "2026-11-12T17:39:46Z",
     "last_checked": "2026-11-12",
-    "score": 35.0,
+    "score": 35,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -1569,7 +1569,7 @@
     "license": "AGPL-3.0",
     "last_push": "2026-11-12T19:52:04Z",
     "last_checked": "2026-11-12",
-    "score": 34.0,
+    "score": 34,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2349,7 +2349,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T17:57:19Z",
     "last_checked": "2026-11-12",
-    "score": 32.0,
+    "score": 32,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2364,7 +2364,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T18:11:13Z",
     "last_checked": "2026-11-12",
-    "score": 32.0,
+    "score": 32,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2379,7 +2379,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T08:01:28Z",
     "last_checked": "2026-11-12",
-    "score": 32.0,
+    "score": 32,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2394,7 +2394,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T18:19:30Z",
     "last_checked": "2026-11-12",
-    "score": 32.0,
+    "score": 32,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2799,7 +2799,7 @@
     "license": "CC0-1.0",
     "last_push": "2026-11-12T16:54:39Z",
     "last_checked": "2026-11-12",
-    "score": 31.0,
+    "score": 31,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2814,7 +2814,7 @@
     "license": "MIT",
     "last_push": "2026-11-12T19:51:54Z",
     "last_checked": "2026-11-12",
-    "score": 31.0,
+    "score": 31,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2829,7 +2829,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-11T11:58:28Z",
     "last_checked": "2026-11-12",
-    "score": 31.0,
+    "score": 31,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -2844,7 +2844,7 @@
     "license": "Apache-2.0",
     "last_push": "2026-11-12T19:41:28Z",
     "last_checked": "2026-11-12",
-    "score": 31.0,
+    "score": 31,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -3144,7 +3144,7 @@
     "license": "AGPL-3.0",
     "last_push": "2026-11-12T10:20:27Z",
     "last_checked": "2026-11-12",
-    "score": 30.0,
+    "score": 30,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -3159,7 +3159,7 @@
     "license": null,
     "last_push": "2026-11-12T19:42:31Z",
     "last_checked": "2026-11-12",
-    "score": 30.0,
+    "score": 30,
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
@@ -3568,5 +3568,125 @@
     "voshu_use": "Needs review",
     "review_status": "Unreviewed",
     "notes": ""
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "purpose": "Node-graph diffusion and media inference; candidate for Voshu Studios rendering workflows.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Node-graph diffusion and media inference; candidate for Voshu Studios rendering workflows.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Review GPU memory budgets, node provenance and GPL obligations."
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "url": "https://github.com/opentofu/opentofu",
+    "purpose": "Declarative infrastructure provisioning for Voshu Compute, Host and reproducible deployment.",
+    "category": "Infrastructure as Code",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Declarative infrastructure provisioning for Voshu Compute, Host and reproducible deployment.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Test isolated plans; avoid state or provider credential exposure."
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "url": "https://github.com/fluxcd/flux2",
+    "purpose": "Kubernetes GitOps reconciliation for future Voshu fleet deployment.",
+    "category": "GitOps & Infrastructure",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Kubernetes GitOps reconciliation for future Voshu fleet deployment.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Only relevant if Kubernetes is adopted; Proxmox alone does not require Flux."
+  },
+  {
+    "repo": "temporalio/temporal",
+    "url": "https://github.com/temporalio/temporal",
+    "purpose": "Durable workflows and recovery for long-running Commander tasks.",
+    "category": "Durable Agent Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Durable workflows and recovery for long-running Commander tasks.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Evaluate operational overhead against Inngest."
+  },
+  {
+    "repo": "inngest/inngest",
+    "url": "https://github.com/inngest/inngest",
+    "purpose": "Event-driven, resumable workflows for agent jobs, onboarding and outreach.",
+    "category": "Durable Agent Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Event-driven, resumable workflows for agent jobs, onboarding and outreach.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Compare deployment and retry semantics with Temporal."
+  },
+  {
+    "repo": "neondatabase/electric",
+    "url": "https://github.com/neondatabase/electric",
+    "purpose": "Postgres change streaming and client synchronization architecture for Voshu One.",
+    "category": "Local-first & Realtime Sync",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Postgres change streaming and client synchronization architecture for Voshu One.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Verify current license and write path before adoption."
+  },
+  {
+    "repo": "cloudflare/agents",
+    "url": "https://github.com/cloudflare/agents",
+    "purpose": "Durable Objects-based stateful agents for Router/Commander edge coordination.",
+    "category": "Durable Agent Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Durable Objects-based stateful agents for Router/Commander edge coordination.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Requires explicit security and identity boundaries."
+  },
+  {
+    "repo": "a2aproject/A2A",
+    "url": "https://github.com/a2aproject/A2A",
+    "purpose": "Inter-agent interoperability reference for Commander and remote collaborators.",
+    "category": "Agent Protocols",
+    "stars": null,
+    "language": null,
+    "license": "Not yet verified",
+    "last_push": null,
+    "last_checked": "2026-11-12",
+    "score": null,
+    "voshu_use": "Inter-agent interoperability reference for Commander and remote collaborators.",
+    "review_status": "Research verified; license and activity pending",
+    "notes": "Keep A2A distinct from MCP tool authorization."
   }
 ]
