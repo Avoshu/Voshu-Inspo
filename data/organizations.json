@@ -56,6 +56,86 @@
       "url": "https://github.com/langchain-ai",
       "priority": "high",
       "status": "watchlisted"
+    },
+    {
+      "github": "openai",
+      "name": "OpenAI",
+      "focus": "Agent tooling, model serving and open specifications",
+      "url": "https://github.com/openai",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "anthropics",
+      "name": "Anthropic",
+      "focus": "Agent tools, MCP and coding workflows",
+      "url": "https://github.com/anthropics",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "NVIDIA",
+      "name": "NVIDIA",
+      "focus": "GPU inference, media and acceleration",
+      "url": "https://github.com/NVIDIA",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "google",
+      "name": "Google",
+      "focus": "Agent protocols, developer tools and multimodal research",
+      "url": "https://github.com/google",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "Comfy-Org",
+      "name": "Comfy Org",
+      "focus": "GPU media graphs, ComfyUI ecosystem",
+      "url": "https://github.com/Comfy-Org",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "opentofu",
+      "name": "OpenTofu",
+      "focus": "Infrastructure as code",
+      "url": "https://github.com/opentofu",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "fluxcd",
+      "name": "Flux",
+      "focus": "GitOps controllers",
+      "url": "https://github.com/fluxcd",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "temporalio",
+      "name": "Temporal",
+      "focus": "Durable workflow execution",
+      "url": "https://github.com/temporalio",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "inngest",
+      "name": "Inngest",
+      "focus": "Durable event-driven orchestration",
+      "url": "https://github.com/inngest",
+      "priority": "high",
+      "status": "watchlisted"
+    },
+    {
+      "github": "a2aproject",
+      "name": "Agent2Agent",
+      "focus": "Inter-agent protocol specification",
+      "url": "https://github.com/a2aproject",
+      "priority": "high",
+      "status": "watchlisted"
     }
   ]
 }
