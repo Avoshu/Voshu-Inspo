@@ -4078,5 +4078,50 @@
     "voshu_use": "Evaluate SSO and identity federation for Voshu Hub, Commander, and client administration; keep Commander tool authorization independent.",
     "review_status": "Origin README verified; license requires component review",
     "notes": "Original non-archived GitHub repository; README and root LICENSE inspected 2026-11-13. License is not uniformly permissive; push timestamp not verified."
+  },
+  {
+    "repo": "ansible-collections/community.proxmox",
+    "url": "https://github.com/ansible-collections/community.proxmox",
+    "purpose": "Official community Ansible collection for Proxmox VE administration",
+    "category": "Infrastructure & GitOps",
+    "stars": null,
+    "language": null,
+    "license": "UNVERIFIED",
+    "last_push": null,
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Configure Proxmox VMs, storage and clusters after OpenTofu provisioning; test idempotence",
+    "review_status": "Origin and README verified; license pending",
+    "notes": "README verified; no root LICENSE; inspect collection metadata and distributed license before adoption. Latest observed commit 2026-11-13: https://github.com/ansible-collections/community.proxmox/commit/e5a126a72605091a1edbb3f4dc51ed857efa82f2"
+  },
+  {
+    "repo": "n8n-io/n8n-nodes-starter",
+    "url": "https://github.com/n8n-io/n8n-nodes-starter",
+    "purpose": "Official starter template for custom n8n integration nodes",
+    "category": "Visual Workflows & Automation",
+    "stars": null,
+    "language": null,
+    "license": "UNVERIFIED",
+    "last_push": null,
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Prototype custom Voshu Commander/Router workflow nodes without embedding n8n into permission enforcement",
+    "review_status": "Origin and README verified; license pending",
+    "notes": "README verified; no root LICENSE; license must be confirmed before reuse. Latest observed commit 2026-08-26: https://github.com/n8n-io/n8n-nodes-starter/commit/6240cb49c06c41b6bc0b2c4c6fc28924ad3a4fbd"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "purpose": "Typed Python AI agent framework with MCP integration",
+    "category": "Agent Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Evaluate typed tool contracts, MCP capability identifiers and structured results for Commander and Agent",
+    "review_status": "Origin, README and root license verified",
+    "notes": "README and MIT root LICENSE verified; current commit concerns IPv6-safe MCP capability identifiers. Latest observed commit 2026-11-13: https://github.com/pydantic/pydantic-ai/commit/b48c24ba9fea726d3f4d4435a279e6fe6a09ae54"
   }
 ]
