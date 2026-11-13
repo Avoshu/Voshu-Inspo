@@ -309,3 +309,10 @@ Origin and README verified; license and exact activity pending. Not approved for
 
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) — Infrastructure & GitOps; Evaluate declarative Proxmox VM and container provisioning for Voshu Compute and Host; test on staging only. License: MPL-2.0.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) — Security & Identity; Evaluate SSO and identity federation for Voshu Hub, Commander, and client administration; keep Commander tool authorization independent. License: Mixed; root LICENSE contains component-specific terms.
+
+
+## GPT Scout — 2026-11-13 08:00 ET
+
+- [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox) — Infrastructure & GitOps; Configure Proxmox VMs, storage and clusters after OpenTofu provisioning; test idempotence. License: UNVERIFIED. [Observed commit](https://github.com/ansible-collections/community.proxmox/commit/e5a126a72605091a1edbb3f4dc51ed857efa82f2).
+- [n8n-io/n8n-nodes-starter](https://github.com/n8n-io/n8n-nodes-starter) — Visual Workflows & Automation; Prototype custom Voshu Commander/Router workflow nodes without embedding n8n into permission enforcement. License: UNVERIFIED. [Observed commit](https://github.com/n8n-io/n8n-nodes-starter/commit/6240cb49c06c41b6bc0b2c4c6fc28924ad3a4fbd).
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) — Agent Orchestration; Evaluate typed tool contracts, MCP capability identifiers and structured results for Commander and Agent. License: MIT. [Observed commit](https://github.com/pydantic/pydantic-ai/commit/b48c24ba9fea726d3f4d4435a279e6fe6a09ae54).
