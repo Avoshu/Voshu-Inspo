@@ -303,3 +303,9 @@ Origin and README verified; license and exact activity pending. Not approved for
 | [xyflow/xyflow](https://github.com/xyflow/xyflow) | UX & Workflows | MIT | Visual graph editing |
 
 [Full verification report](reports/daily/2026-11-13-gpt-scout-0400.md). Recent activity timestamps still require confirmation; candidates are not deployment-approved.
+
+
+## GPT Scout additions — 2026-11-13 06:00 ET
+
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) — Infrastructure & GitOps; Evaluate declarative Proxmox VM and container provisioning for Voshu Compute and Host; test on staging only. License: MPL-2.0.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) — Security & Identity; Evaluate SSO and identity federation for Voshu Hub, Commander, and client administration; keep Commander tool authorization independent. License: Mixed; root LICENSE contains component-specific terms.
