@@ -285,3 +285,21 @@ Origin and README verified; license and exact activity pending. Not approved for
 | [astral-sh/uv](https://github.com/astral-sh/uv) | Developer Tools | MIT | Reproducible Python environments for Voice and Compute |
 
 [Full dated scout report](reports/daily/2026-11-13-gpt-scout-0200.md). Research candidates only; no local F: drive audit performed.
+
+
+## GPT Scout — November 13, 04:00 ET (270 entries)
+
+| Repository | Category | Root license | Voshu research use |
+|---|---|---|---|
+| [runpod-workers/worker-comfyui](https://github.com/runpod-workers/worker-comfyui) | GPU Media | AGPL-3.0 | Serverless ComfyUI render worker |
+| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox | MIT | Provisioning references, scripts require review |
+| [docker/compose](https://github.com/docker/compose) | Infrastructure | Apache-2.0 | Multi-service development environments |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | Agent Orchestration | MIT | Checkpoint and stateful graph patterns |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | MCP | License transition | MCP reference server patterns |
+| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | Computer Use | Apache-2.0 | Browser accessibility tool integration |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Agents | MIT | Handoffs and tracing |
+| [livekit/agents](https://github.com/livekit/agents) | Voice | Apache-2.0 | Realtime voice sessions |
+| [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) | Voice | BSD-2-Clause | Duplex voice pipelines |
+| [xyflow/xyflow](https://github.com/xyflow/xyflow) | UX & Workflows | MIT | Visual graph editing |
+
+[Full verification report](reports/daily/2026-11-13-gpt-scout-0400.md). Recent activity timestamps still require confirmation; candidates are not deployment-approved.
