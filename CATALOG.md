@@ -338,3 +338,14 @@ Origin and README verified; license and exact activity pending. Not approved for
 - [openbao/openbao](https://github.com/openbao/openbao) — **Security & Identity**, MPL-2.0. Evaluate centralized secrets issuance and rotation for Commander, Router, Host and Proxmox; keep tool authorization separate. Last push not independently verified.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — **Developer Tools**, MIT. Ingest source documents into Voshu Library and agent research with sandboxed file access; README warns about process I/O privileges. Last push not independently verified.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) — **Computer Use & Browser**, MIT. Benchmark browser action reliability and deterministic fallbacks for Commander desktop/browser workflows, without delegating permissions. Last push not independently verified.
+
+## GPT Scout verified additions — 2026-11-14 04:00 ET
+
+| Repository | Category | Root license | Voshu relevance |
+|---|---|---|---|
+| [dagger/container-use](https://github.com/dagger/container-use) | Agent Orchestration | Apache-2.0 | Evaluate isolated coding-agent workspaces and reproducible branch handoffs for Commander |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent Orchestration | MIT | Compare agent planning and subagent delegation with Voshu Agent 2.0; retain Commander as authorization authority |
+| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | Infrastructure & Security | Apache-2.0 | Consider only if Voshu Host adopts Kubernetes; connect external secrets without putting values in Git |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | Observability & Developer Tools | Apache-2.0 | Standardize traces and metrics across Router, Commander, Compute and Host with redaction |
+
+See [dated research report](reports/daily/2026-11-14-gpt-scout-0400.md) for observed commits and outstanding checks.
