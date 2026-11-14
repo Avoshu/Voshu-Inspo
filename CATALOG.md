@@ -331,3 +331,10 @@ Origin and README verified; license and exact activity pending. Not approved for
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) — Local-first & Realtime; Apache-2.0. SQLite reactive offline-first state and pluggable sync; candidate for Atlas and Voshu One collaborative workspaces.
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — Agent Orchestration; MIT. Microsoft multi-agent framework; compare lifecycle, tools, state and observability against Commander while preserving its independent permissions.
 - [google/adk-python](https://github.com/google/adk-python) — Agent Orchestration; Apache-2.0. Google Agent Development Kit; assess agent/tool patterns, deployment adapters and test practices for Voshu Agent.
+
+
+## GPT Scout — 2026-11-14 0200 ET
+
+- [openbao/openbao](https://github.com/openbao/openbao) — **Security & Identity**, MPL-2.0. Evaluate centralized secrets issuance and rotation for Commander, Router, Host and Proxmox; keep tool authorization separate. Last push not independently verified.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — **Developer Tools**, MIT. Ingest source documents into Voshu Library and agent research with sandboxed file access; README warns about process I/O privileges. Last push not independently verified.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) — **Computer Use & Browser**, MIT. Benchmark browser action reliability and deterministic fallbacks for Commander desktop/browser workflows, without delegating permissions. Last push not independently verified.
