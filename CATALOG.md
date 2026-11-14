@@ -349,3 +349,9 @@ Origin and README verified; license and exact activity pending. Not approved for
 | [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | Observability & Developer Tools | Apache-2.0 | Standardize traces and metrics across Router, Commander, Compute and Host with redaction |
 
 See [dated research report](reports/daily/2026-11-14-gpt-scout-0400.md) for observed commits and outstanding checks.
+
+
+## GPT Scout verified research — 2026-11-14 (06:00 ET)
+
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) — MIT; Research-only evaluation harness for Commander/Router agent trajectories; avoid production training until data handling and GPU costs are reviewed. Last-push timestamp pending verification.
+- [cloudflare/workflows-starter](https://github.com/cloudflare/workflows-starter) — Apache-2.0; Reference for edge-based resumable onboarding and notification workflows; not a substitute for Commander authorization or Proxmox job orchestration. Last-push timestamp pending verification.
