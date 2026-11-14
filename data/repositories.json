@@ -4123,5 +4123,50 @@
     "voshu_use": "Evaluate typed tool contracts, MCP capability identifiers and structured results for Commander and Agent",
     "review_status": "Origin, README and root license verified",
     "notes": "README and MIT root LICENSE verified; current commit concerns IPv6-safe MCP capability identifiers. Latest observed commit 2026-11-13: https://github.com/pydantic/pydantic-ai/commit/b48c24ba9fea726d3f4d4435a279e6fe6a09ae54"
+  },
+  {
+    "repo": "Comfy-Org/workflow_templates",
+    "url": "https://github.com/Comfy-Org/workflow_templates",
+    "purpose": "Official ComfyUI workflow templates, model dependency manifests, and reusable subgraph blueprints.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": "2026-11-12T19:18:54Z",
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Voshu Studios: reference for versioned GPU media graphs, model download manifests, schema validation, and approved workflow gallery.",
+    "review_status": "Origin, README, root LICENSE and observed commit verified; dependency license review pending",
+    "notes": "Observed upstream commit: https://github.com/Comfy-Org/workflow_templates/commit/36ecd0663961c5e1e83f7c0ea521658b33b36bbc. last_push reflects observed commit time, not independently verified repository pushed_at."
+  },
+  {
+    "repo": "Comfy-Org/workflows",
+    "url": "https://github.com/Comfy-Org/workflows",
+    "purpose": "Official shareable ComfyUI workflows with cloud and local variants and documented model/custom-node dependencies.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "GPL-3.0",
+    "last_push": "2026-10-29T20:01:11Z",
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Voshu Studios/Compute: compare cloud versus local workflow variants, provenance, GPU dependencies, and media preview records.",
+    "review_status": "Origin, README, root LICENSE and observed commit verified; dependency license review pending",
+    "notes": "Observed upstream commit: https://github.com/Comfy-Org/workflows/commit/41e2cefc5d8059378896d5796678ddbab9ad581c. last_push reflects observed commit time, not independently verified repository pushed_at."
+  },
+  {
+    "repo": "stacklok/toolhive",
+    "url": "https://github.com/stacklok/toolhive",
+    "purpose": "MCP server registry, gateway, container isolation, authorization policy and observability.",
+    "category": "MCP & Security",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": "2026-11-13T21:41:03Z",
+    "last_checked": "2026-11-13",
+    "score": null,
+    "voshu_use": "Voshu Commander: benchmark isolated MCP runtime, registry provenance, per-request identity, policy enforcement and protocol-version compatibility; do not replace Commander approvals.",
+    "review_status": "Origin, README, root LICENSE and observed commit verified; dependency license review pending",
+    "notes": "Observed upstream commit: https://github.com/stacklok/toolhive/commit/b9de592d816b84716d0cdddc786fc8ae21be9ca3. last_push reflects observed commit time, not independently verified repository pushed_at."
   }
 ]
