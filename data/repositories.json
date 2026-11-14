@@ -4363,5 +4363,35 @@
     "voshu_use": "Standardize traces and metrics across Router, Commander, Compute and Host with redaction",
     "review_status": "Research verified; adoption pending",
     "notes": "Original README and root LICENSE inspected 2026-11-14. Recent upstream commit: https://github.com/open-telemetry/opentelemetry-collector/commit/572057cde7e9bbe3aed6e5e3e8f16290d487f7d0. Exact latest push timestamp and dependency licensing not verified."
+  },
+  {
+    "repo": "microsoft/agent-lightning",
+    "url": "https://github.com/microsoft/agent-lightning",
+    "purpose": "Train and benchmark agent harnesses using real tool interactions and reinforcement learning.",
+    "category": "Agent Orchestration & Evaluation",
+    "stars": null,
+    "language": "Python",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "voshu_use": "Research-only evaluation harness for Commander/Router agent trajectories; avoid production training until data handling and GPU costs are reviewed.",
+    "review_status": "Origin/README/license verified; activity date pending",
+    "notes": "Official Microsoft repo; README and root MIT license inspected. Commit https://github.com/microsoft/agent-lightning/commit/2070bad5113e52f1aa2e5bdba822d4b24b197c05; exact push timestamp unverified."
+  },
+  {
+    "repo": "cloudflare/workflows-starter",
+    "url": "https://github.com/cloudflare/workflows-starter",
+    "purpose": "Official minimal example for Cloudflare durable multi-step Workflows.",
+    "category": "Durable Workflows & Infrastructure",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "voshu_use": "Reference for edge-based resumable onboarding and notification workflows; not a substitute for Commander authorization or Proxmox job orchestration.",
+    "review_status": "Origin/README/license verified; activity date pending",
+    "notes": "Official Cloudflare repo; README and root Apache-2.0 license inspected. Commit https://github.com/cloudflare/workflows-starter/commit/fe87d313936698ba674af56ac9ca3a49704098c6; exact push timestamp unverified."
   }
 ]
