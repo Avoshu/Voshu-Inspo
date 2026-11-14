@@ -336,3 +336,10 @@ Five original repositories added with GitHub README, license and commit evidence
 ### GPT Scout — 2026-11-13 08:00 ET
 
 3 origin-checked additions: [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox), [n8n-io/n8n-nodes-starter](https://github.com/n8n-io/n8n-nodes-starter), [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai). See [dated report](reports/daily/2026-11-13-gpt-scout-0800.md). License checks remain pending for two repositories.
+
+### GPT Scout — 2026-11-13 22:00 ET
+- [Comfy-Org/workflow_templates](https://github.com/Comfy-Org/workflow_templates) — GPU Media & ComfyUI
+- [Comfy-Org/workflows](https://github.com/Comfy-Org/workflows) — GPU Media & ComfyUI
+- [stacklok/toolhive](https://github.com/stacklok/toolhive) — MCP & Security
+
+[Research report](reports/daily/2026-11-13-gpt-scout-2200.md). Verified catalog total: 278.
