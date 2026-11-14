@@ -321,3 +321,13 @@ Origin and README verified; license and exact activity pending. Not approved for
 - [Comfy-Org/workflow_templates](https://github.com/Comfy-Org/workflow_templates) — GPU Media & ComfyUI; Voshu Studios: reference for versioned GPU media graphs, model download manifests, schema validation, and approved workflow gallery. Root license: MIT. [Observed commit](https://github.com/Comfy-Org/workflow_templates/commit/36ecd0663961c5e1e83f7c0ea521658b33b36bbc).
 - [Comfy-Org/workflows](https://github.com/Comfy-Org/workflows) — GPU Media & ComfyUI; Voshu Studios/Compute: compare cloud versus local workflow variants, provenance, GPU dependencies, and media preview records. Root license: GPL-3.0. [Observed commit](https://github.com/Comfy-Org/workflows/commit/41e2cefc5d8059378896d5796678ddbab9ad581c).
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) — MCP & Security; Voshu Commander: benchmark isolated MCP runtime, registry provenance, per-request identity, policy enforcement and protocol-version compatibility; do not replace Commander approvals. Root license: Apache-2.0. [Observed commit](https://github.com/stacklok/toolhive/commit/b9de592d816b84716d0cdddc786fc8ae21be9ca3).
+
+
+## GPT Scout additions — 2026-11-14
+
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) — MCP & Integrations; Mixed MIT/Apache-2.0 transition; documentation CC-BY-4.0. Official MCP server discovery registry; evaluate registry metadata, provenance and trust boundaries for Commander.
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) — MCP & Integrations; Mixed MIT/Apache-2.0 transition; documentation CC-BY-4.0. Official MCP Inspector with CLI, TUI and web testing for Commander protocol regression and troubleshooting.
+- [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) — GPU Media & Visual Workflows; GPL-3.0. Official ComfyUI graph editor frontend; study graph UX, node configuration, templates and GPU media workflow editing for Studios.
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) — Local-first & Realtime; Apache-2.0. SQLite reactive offline-first state and pluggable sync; candidate for Atlas and Voshu One collaborative workspaces.
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) — Agent Orchestration; MIT. Microsoft multi-agent framework; compare lifecycle, tools, state and observability against Commander while preserving its independent permissions.
+- [google/adk-python](https://github.com/google/adk-python) — Agent Orchestration; Apache-2.0. Google Agent Development Kit; assess agent/tool patterns, deployment adapters and test practices for Voshu Agent.
