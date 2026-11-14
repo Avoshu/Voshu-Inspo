@@ -4258,5 +4258,50 @@
     "voshu_use": "Google Agent Development Kit; assess agent/tool patterns, deployment adapters and test practices for Voshu Agent.",
     "review_status": "Origin, README and root LICENSE verified; adoption pending",
     "notes": "Latest observed commit (not necessarily latest push): https://github.com/google/adk-python/commit/12aab4aaaa1a72e3edcc65fa4f9d849896ea6c48. Dependency licenses and runtime integration unreviewed."
+  },
+  {
+    "repo": "openbao/openbao",
+    "purpose": "Open-source secrets management and encryption service for infrastructure.",
+    "category": "Security & Identity",
+    "license": "MPL-2.0",
+    "voshu_use": "Evaluate centralized secrets issuance and rotation for Commander, Router, Host and Proxmox; keep tool authorization separate.",
+    "notes": "Official origin, README and root MPL-2.0 license checked 2026-11-14. Recent push and dependency licenses not independently verified.",
+    "url": "https://github.com/openbao/openbao",
+    "stars": null,
+    "language": null,
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "review_status": "Research verified; adoption pending"
+  },
+  {
+    "repo": "microsoft/markitdown",
+    "purpose": "Convert documents and other supported files into Markdown for AI processing.",
+    "category": "Developer Tools",
+    "license": "MIT",
+    "voshu_use": "Ingest source documents into Voshu Library and agent research with sandboxed file access; README warns about process I/O privileges.",
+    "notes": "Official Microsoft repository, README and root MIT license checked 2026-11-14. Recent push not independently verified.",
+    "url": "https://github.com/microsoft/markitdown",
+    "stars": null,
+    "language": null,
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "review_status": "Research verified; adoption pending"
+  },
+  {
+    "repo": "browserbase/stagehand",
+    "purpose": "Browser automation framework combining programmatic and AI-assisted actions.",
+    "category": "Computer Use & Browser",
+    "license": "MIT",
+    "voshu_use": "Benchmark browser action reliability and deterministic fallbacks for Commander desktop/browser workflows, without delegating permissions.",
+    "notes": "Original Browserbase repository, README and root MIT license checked 2026-11-14. Recent push not independently verified.",
+    "url": "https://github.com/browserbase/stagehand",
+    "stars": null,
+    "language": null,
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "review_status": "Research verified; adoption pending"
   }
 ]
