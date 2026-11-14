@@ -348,3 +348,8 @@ Five original repositories added with GitHub README, license and commit evidence
 ### GPT Scout — 2026-11-14
 
 - [Six origin-verified MCP, ComfyUI, offline-first and agent framework discoveries](reports/daily/2026-11-14-gpt-scout-0000.md) — see [catalog](CATALOG.md) and [structured entries](data/repositories.json). Licensing and deployment review remain separate from discovery.
+
+
+### GPT Scout — 2026-11-14 0200 ET
+
+Three origin/README/root-license checked research additions: [OpenBao](https://github.com/openbao/openbao), [Microsoft MarkItDown](https://github.com/microsoft/markitdown), and [Stagehand](https://github.com/browserbase/stagehand). See [dated report](reports/daily/2026-11-14-gpt-scout-0200.md). Upstream push dates and deployment suitability remain unverified.
