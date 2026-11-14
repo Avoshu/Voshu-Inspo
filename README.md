@@ -365,3 +365,8 @@ Four origin-checked candidates added: [container-use](https://github.com/dagger/
 - [cloudflare/workflows-starter](https://github.com/cloudflare/workflows-starter) — Reference for edge-based resumable onboarding and notification workflows; not a substitute for Commander authorization or Proxmox job orchestration.
 
 See [dated research report](reports/daily/2026-11-14-gpt-scout-0600.md) for verification and limitations.
+
+
+### GPT Scout — 2026-11-14 08:00
+
+Added [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) to the verified research catalog for Commander/Router agent evaluation and profiling. [Read the dated report](reports/daily/2026-11-14-gpt-scout-0800.md). The ComfyUI Manager candidate remains held pending root licensing evidence. Existing manual entries and local inventory were not modified.
