@@ -355,3 +355,12 @@ See [dated research report](reports/daily/2026-11-14-gpt-scout-0400.md) for obse
 
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) — MIT; Research-only evaluation harness for Commander/Router agent trajectories; avoid production training until data handling and GPU costs are reviewed. Last-push timestamp pending verification.
 - [cloudflare/workflows-starter](https://github.com/cloudflare/workflows-starter) — Apache-2.0; Reference for edge-based resumable onboarding and notification workflows; not a substitute for Commander authorization or Proxmox job orchestration. Last-push timestamp pending verification.
+
+
+## GPT Scout verified discovery — 2026-11-14 08:00
+
+| Repository | Purpose | Category | License | Voshu use |
+|---|---|---|---|---|
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Agent workflow evaluation, profiling and observability | Agent Orchestration & Evaluation | Apache-2.0 | Compare evaluation and trace instrumentation for Commander/Router without transferring authorization control |
+
+Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/develop/README.md), [root license](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/develop/LICENSE.md), [observed upstream commit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/commit/9296f5311a4aebfb0e583221cc2bc774ad2f0732). Exact latest-push time and dependency licenses pending. [Dated report](reports/daily/2026-11-14-gpt-scout-0800.md).
