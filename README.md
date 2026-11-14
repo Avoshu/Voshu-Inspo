@@ -343,3 +343,8 @@ Five original repositories added with GitHub README, license and commit evidence
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) — MCP & Security
 
 [Research report](reports/daily/2026-11-13-gpt-scout-2200.md). Verified catalog total: 278.
+
+
+### GPT Scout — 2026-11-14
+
+- [Six origin-verified MCP, ComfyUI, offline-first and agent framework discoveries](reports/daily/2026-11-14-gpt-scout-0000.md) — see [catalog](CATALOG.md) and [structured entries](data/repositories.json). Licensing and deployment review remain separate from discovery.
