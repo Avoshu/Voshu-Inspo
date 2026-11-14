@@ -353,3 +353,7 @@ Five original repositories added with GitHub README, license and commit evidence
 ### GPT Scout — 2026-11-14 0200 ET
 
 Three origin/README/root-license checked research additions: [OpenBao](https://github.com/openbao/openbao), [Microsoft MarkItDown](https://github.com/microsoft/markitdown), and [Stagehand](https://github.com/browserbase/stagehand). See [dated report](reports/daily/2026-11-14-gpt-scout-0200.md). Upstream push dates and deployment suitability remain unverified.
+
+### GPT Scout research — 2026-11-14 04:00 ET
+
+Four origin-checked candidates added: [container-use](https://github.com/dagger/container-use), [Deep Agents](https://github.com/langchain-ai/deepagents), [External Secrets Operator](https://github.com/external-secrets/external-secrets), and [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector). See the [dated report](reports/daily/2026-11-14-gpt-scout-0400.md) and [curated catalog](CATALOG.md). Adoption remains pending review.
