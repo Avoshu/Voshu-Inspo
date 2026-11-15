@@ -4408,5 +4408,20 @@
     "voshu_use": "Evaluate tracing, profiling and agent-run measurements across Commander and Router without replacing tool authorization",
     "review_status": "Origin/README/root-license verified; adoption pending",
     "notes": "Official NVIDIA public, non-archived repo, default branch develop. Root LICENSE.md Apache-2.0 inspected. Recent observed commit https://github.com/NVIDIA/NeMo-Agent-Toolkit/commit/9296f5311a4aebfb0e583221cc2bc774ad2f0732. Exact push time and dependency licenses unverified."
+  },
+  {
+    "repo": "cloudflare/workerd",
+    "url": "https://github.com/cloudflare/workerd",
+    "purpose": "Cloudflare's open-source JavaScript/Wasm runtime; capability bindings, local Workers-compatible execution and programmable HTTP proxy.",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": "C++",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-14",
+    "score": null,
+    "voshu_use": "Evaluate as a local runtime and capability-isolated edge proxy for Voshu Hub/Router; benchmark separately from Commander authorization.",
+    "review_status": "Research verified; adoption pending",
+    "notes": "Official Cloudflare GitHub origin; README and root LICENSE inspected 2026-11-14. Recent upstream commit: https://github.com/cloudflare/workerd/commit/49420b8484a480f42cf99fa06b79c71a4965f340 . Exact push timestamp not confirmed; no execution."
   }
 ]
