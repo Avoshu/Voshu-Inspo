@@ -364,3 +364,9 @@ See [dated research report](reports/daily/2026-11-14-gpt-scout-0400.md) for obse
 | [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Agent workflow evaluation, profiling and observability | Agent Orchestration & Evaluation | Apache-2.0 | Compare evaluation and trace instrumentation for Commander/Router without transferring authorization control |
 
 Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/develop/README.md), [root license](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/develop/LICENSE.md), [observed upstream commit](https://github.com/NVIDIA/NeMo-Agent-Toolkit/commit/9296f5311a4aebfb0e583221cc2bc774ad2f0732). Exact latest-push time and dependency licenses pending. [Dated report](reports/daily/2026-11-14-gpt-scout-0800.md).
+
+## GPT Scout additions — 2026-11-14 evening
+
+| Repository | License | Category | Voshu relevance | Verification |
+|---|---|---|---|---|
+| [cloudflare/workerd](https://github.com/cloudflare/workerd) | Apache-2.0 | Infrastructure & DevOps | Evaluate as a local runtime and capability-isolated edge proxy for Voshu Hub/Router; benchmark separately from Commander authorization. | README, root LICENSE, upstream commit checked; push timestamp pending |
