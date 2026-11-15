@@ -370,3 +370,7 @@ See [dated research report](reports/daily/2026-11-14-gpt-scout-0600.md) for veri
 ### GPT Scout — 2026-11-14 08:00
 
 Added [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) to the verified research catalog for Commander/Router agent evaluation and profiling. [Read the dated report](reports/daily/2026-11-14-gpt-scout-0800.md). The ComfyUI Manager candidate remains held pending root licensing evidence. Existing manual entries and local inventory were not modified.
+
+### Scout research — 2026-11-14 evening
+
+Added 1 origin-checked projects to the machine-readable catalog: [cloudflare/workerd](https://github.com/cloudflare/workerd). See [dated research report](reports/daily/2026-11-14-gpt-scout-2200.md) for upstream commits, review status and unresolved license checks. Existing manual inventory preserved.
