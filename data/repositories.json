@@ -4483,5 +4483,20 @@
     "voshu_use": "Potential Voshu Agent mobile companion; evaluate alongside existing Flutter architecture rather than migrate blindly",
     "review_status": "Origin/README/license checked; integration pending",
     "notes": "Observed upstream commit: https://github.com/expo/expo/commit/8f383b9bc68be340ea1931fdfaa705a78a95d6a8; latest push timestamp not independently verified"
+  },
+  {
+    "repo": "temporalio/sdk-typescript",
+    "url": "https://github.com/temporalio/sdk-typescript",
+    "purpose": "TypeScript SDK for durable Temporal workflows, activities and workers",
+    "category": "Durable Agent Orchestration",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Evaluate durable Commander agent jobs and Studios onboarding with retry, cancellation, replay and worker recovery; keep authorization in Commander",
+    "review_status": "Origin/README/root license checked; integration pending",
+    "notes": "Observed upstream commit: https://github.com/temporalio/sdk-typescript/commit/4a5ee3476e20bcce0bde088ab035792a298118b5; exact push timestamp unverified"
   }
 ]
