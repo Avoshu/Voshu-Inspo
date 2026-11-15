@@ -378,3 +378,7 @@ Added 1 origin-checked projects to the machine-readable catalog: [cloudflare/wor
 ## GPT Scout research — 2026-11-15
 
 Four original projects reviewed for local-first data, realtime collaboration and mobile UX: [InstantDB](https://github.com/instantdb/instant), [libSQL](https://github.com/tursodatabase/libsql), [Fluid Framework](https://github.com/microsoft/FluidFramework), and [Expo](https://github.com/expo/expo). [Dated research and upstream commits](reports/daily/2026-11-15-gpt-scout-0000.md). These are research candidates, not adopted dependencies. Existing generated discovery block and manual notes are unchanged.
+
+### GPT Scout — 2026-11-15 02:00 ET
+
+- [Temporal TypeScript SDK](https://github.com/temporalio/sdk-typescript) — durable agent and onboarding orchestration research. [Full report](reports/daily/2026-11-15-gpt-scout-0200.md).
