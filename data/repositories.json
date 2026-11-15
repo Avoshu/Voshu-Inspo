@@ -4573,5 +4573,35 @@
     "voshu_use": "Voshu Library: reproducible ingestion, source provenance, catalog refresh and asset-level failure diagnostics; compare with n8n and Temporal before adopting.",
     "review_status": "Research verified; adoption pending",
     "notes": "Official dagster-io org; README.md and LICENSE checked; public unarchived. Observed commit 2026-11-13: https://github.com/dagster-io/dagster/commit/b0099d257d666c1c95e8079254060d2ab2caa6f3. Latest push timestamp unverified."
+  },
+  {
+    "repo": "Comfy-Org/comfy-cli",
+    "url": "https://github.com/Comfy-Org/comfy-cli",
+    "purpose": "Official ComfyUI command-line management for installations, custom nodes, models, and workflow execution.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "GPL-3.0",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Compute: reproducible GPU workflow provisioning and controlled CLI execution; pin versions and isolate custom nodes.",
+    "review_status": "Verified source; integration untested",
+    "notes": "Official README and root LICENSE inspected 2026-11-15; observed commit https://github.com/Comfy-Org/comfy-cli/commit/4f554bb5a9e5d0b5d04146e7bdf8cac2ceb729a5. Latest push timestamp not verified; dependency licenses not audited."
+  },
+  {
+    "repo": "semaphoreui/semaphore",
+    "url": "https://github.com/semaphoreui/semaphore",
+    "purpose": "Self-hosted interface for Ansible, OpenTofu/Terraform, PowerShell and infrastructure automation jobs.",
+    "category": "Infrastructure Automation",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Host: operator-friendly approval and execution UI for infrastructure tasks; review role permissions and security advisories.",
+    "review_status": "Verified source; integration untested",
+    "notes": "Official README and root LICENSE inspected 2026-11-15; observed commit https://github.com/semaphoreui/semaphore/commit/f7567726fff5438a97c91a18d3a206a0fe2e786e. Latest push timestamp not verified; dependency licenses not audited."
   }
 ]
