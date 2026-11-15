@@ -370,3 +370,12 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | Repository | License | Category | Voshu relevance | Verification |
 |---|---|---|---|---|
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | Apache-2.0 | Infrastructure & DevOps | Evaluate as a local runtime and capability-isolated edge proxy for Voshu Hub/Router; benchmark separately from Commander authorization. | README, root LICENSE, upstream commit checked; push timestamp pending |
+
+## GPT Scout additions — 2026-11-15
+
+| Repository | Purpose | Category | License | Voshu use |
+|---|---|---|---|---|
+| [instantdb/instant](https://github.com/instantdb/instant) | Reactive realtime database with client-side caching and optimistic updates | Local-first & Realtime | Apache-2.0 | Evaluate reactive state and offline behavior for Voshu Atlas/One; validate self-hosting and data ownership before adoption |
+| [tursodatabase/libsql](https://github.com/tursodatabase/libsql) | SQLite-compatible database fork and distributed database tooling | Local-first & Databases | MIT | Compare embedded SQLite replication and sync options for local-first Voshu Agent and Hub |
+| [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) | Distributed realtime collaborative application framework | Realtime Collaboration | MIT | Evaluate collaborative Atlas panes and multi-agent shared document state; benchmark conflict resolution |
+| [expo/expo](https://github.com/expo/expo) | React Native platform and developer tooling for cross-platform applications | Desktop & Mobile UX | MIT | Potential Voshu Agent mobile companion; evaluate alongside existing Flutter architecture rather than migrate blindly |
