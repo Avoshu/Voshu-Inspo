@@ -374,3 +374,7 @@ Added [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) 
 ### Scout research — 2026-11-14 evening
 
 Added 1 origin-checked projects to the machine-readable catalog: [cloudflare/workerd](https://github.com/cloudflare/workerd). See [dated research report](reports/daily/2026-11-14-gpt-scout-2200.md) for upstream commits, review status and unresolved license checks. Existing manual inventory preserved.
+
+## GPT Scout research — 2026-11-15
+
+Four original projects reviewed for local-first data, realtime collaboration and mobile UX: [InstantDB](https://github.com/instantdb/instant), [libSQL](https://github.com/tursodatabase/libsql), [Fluid Framework](https://github.com/microsoft/FluidFramework), and [Expo](https://github.com/expo/expo). [Dated research and upstream commits](reports/daily/2026-11-15-gpt-scout-0000.md). These are research candidates, not adopted dependencies. Existing generated discovery block and manual notes are unchanged.
