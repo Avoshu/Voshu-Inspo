@@ -4528,5 +4528,50 @@
     "voshu_use": "Compare against OpenTofu for typed deployment workflows and programmatic automation; avoid parallel competing state owners.",
     "review_status": "Verified source; adoption pending",
     "notes": "README and root license verified; latest observed commit https://github.com/pulumi/pulumi/commit/97d0b4f26020b388a7288173026e7944cf470aac. Dependency licenses and deployment untested."
+  },
+  {
+    "repo": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "purpose": "Web UI, API, and job controller for Ansible automation",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Compute/Host: controlled Ansible playbook runs for Proxmox and Docker hosts; require approval gates, scoped credentials and audit trails.",
+    "review_status": "Research verified; adoption pending",
+    "notes": "Official ansible org; README.md and LICENSE.md checked; public unarchived. Observed commit 2026-11-13: https://github.com/ansible/awx/commit/5be49a25ea4a1d39bd3324f664dd34aafd9f529a. Latest push timestamp unverified."
+  },
+  {
+    "repo": "getsops/sops",
+    "url": "https://github.com/getsops/sops",
+    "purpose": "Encrypt structured configuration and secrets files using age, PGP or cloud KMS",
+    "category": "Security & Secrets",
+    "stars": null,
+    "language": "Go",
+    "license": "MPL-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Router/Commander/Host: encrypted GitOps config and deploy secrets without committing plaintext; keep decryption keys out of repository and logs.",
+    "review_status": "Research verified; adoption pending",
+    "notes": "Official getsops org; README.rst and LICENSE checked; public unarchived. Observed commit 2026-11-09: https://github.com/getsops/sops/commit/9aa10f12bcd82400b7eb73331dd7a87a93bb17f7. Latest push timestamp unverified."
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "purpose": "Data orchestration platform with asset lineage, schedules, jobs and observability",
+    "category": "Workflow & Orchestration",
+    "stars": null,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Library: reproducible ingestion, source provenance, catalog refresh and asset-level failure diagnostics; compare with n8n and Temporal before adopting.",
+    "review_status": "Research verified; adoption pending",
+    "notes": "Official dagster-io org; README.md and LICENSE checked; public unarchived. Observed commit 2026-11-13: https://github.com/dagster-io/dagster/commit/b0099d257d666c1c95e8079254060d2ab2caa6f3. Latest push timestamp unverified."
   }
 ]
