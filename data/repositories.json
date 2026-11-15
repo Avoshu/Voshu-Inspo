@@ -4498,5 +4498,35 @@
     "voshu_use": "Evaluate durable Commander agent jobs and Studios onboarding with retry, cancellation, replay and worker recovery; keep authorization in Commander",
     "review_status": "Origin/README/root license checked; integration pending",
     "notes": "Observed upstream commit: https://github.com/temporalio/sdk-typescript/commit/4a5ee3476e20bcce0bde088ab035792a298118b5; exact push timestamp unverified"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI-Manager",
+    "url": "https://github.com/Comfy-Org/ComfyUI-Manager",
+    "purpose": "Official ComfyUI custom-node lifecycle and registry manager; security-sensitive installation and node preview handling.",
+    "category": "GPU Media & Workflows",
+    "stars": null,
+    "language": null,
+    "license": "GPL-3.0",
+    "last_push": "2026-11-15T06:18:55Z",
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Voshu Studios/Compute: inventory custom-node provenance, pinned versions and sandbox installation; study node preview escaping.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "README and root license verified; latest observed commit https://github.com/Comfy-Org/ComfyUI-Manager/commit/05804c107984a48291af2ca440e5b9e357727595. Dependency licenses and deployment untested."
+  },
+  {
+    "repo": "pulumi/pulumi",
+    "url": "https://github.com/pulumi/pulumi",
+    "purpose": "Infrastructure as code using general-purpose programming languages and Automation API.",
+    "category": "Infrastructure as Code",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": "2026-11-13T20:16:09Z",
+    "last_checked": "2026-11-15",
+    "score": null,
+    "voshu_use": "Compare against OpenTofu for typed deployment workflows and programmatic automation; avoid parallel competing state owners.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "README and root license verified; latest observed commit https://github.com/pulumi/pulumi/commit/97d0b4f26020b388a7288173026e7944cf470aac. Dependency licenses and deployment untested."
   }
 ]
