@@ -382,3 +382,11 @@ Four original projects reviewed for local-first data, realtime collaboration and
 ### GPT Scout — 2026-11-15 02:00 ET
 
 - [Temporal TypeScript SDK](https://github.com/temporalio/sdk-typescript) — durable agent and onboarding orchestration research. [Full report](reports/daily/2026-11-15-gpt-scout-0200.md).
+
+
+### GPT Scout verified additions — 2026-11-15 04:00 ET
+
+- [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) — Voshu Studios/Compute: inventory custom-node provenance, pinned versions and sandbox installation; study node preview escaping.
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) — Compare against OpenTofu for typed deployment workflows and programmatic automation; avoid parallel competing state owners.
+
+[Read dated verification report](reports/daily/2026-11-15-gpt-scout-0400.md). Catalog total: 302. Existing manual notes and local inventory unchanged.
