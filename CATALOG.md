@@ -392,3 +392,13 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | [ansible/awx](https://github.com/ansible/awx) | Apache-2.0 | Voshu Compute/Host: controlled Ansible playbook runs for Proxmox and Docker hosts; require approval gates, scoped credentials and audit trails. | [Observed commit](https://github.com/ansible/awx/commit/5be49a25ea4a1d39bd3324f664dd34aafd9f529a) |
 | [getsops/sops](https://github.com/getsops/sops) | MPL-2.0 | Voshu Router/Commander/Host: encrypted GitOps config and deploy secrets without committing plaintext; keep decryption keys out of repository and logs. | [Observed commit](https://github.com/getsops/sops/commit/9aa10f12bcd82400b7eb73331dd7a87a93bb17f7) |
 | [dagster-io/dagster](https://github.com/dagster-io/dagster) | Apache-2.0 | Voshu Library: reproducible ingestion, source provenance, catalog refresh and asset-level failure diagnostics; compare with n8n and Temporal before adopting. | [Observed commit](https://github.com/dagster-io/dagster/commit/b0099d257d666c1c95e8079254060d2ab2caa6f3) |
+
+
+## GPT Scout additions — 2026-11-15 08:00 ET
+
+| Repository | Category | License | Voshu relevance |
+|---|---|---|---|
+| [Comfy-Org/comfy-cli](https://github.com/Comfy-Org/comfy-cli) | GPU Media & ComfyUI | GPL-3.0 | Voshu Compute: reproducible GPU workflow provisioning and controlled CLI execution; pin versions and isolate custom nodes. |
+| [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | Infrastructure Automation | MIT | Voshu Host: operator-friendly approval and execution UI for infrastructure tasks; review role permissions and security advisories. |
+
+[Research and upstream commits](reports/daily/2026-11-15-gpt-scout-0800.md)
