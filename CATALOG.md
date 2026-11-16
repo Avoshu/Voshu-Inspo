@@ -428,3 +428,5 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | [sigstore/cosign](https://github.com/sigstore/cosign) | Container artifact signing and verification tooling | Security & Identity | — | Unverified | Voshu Host: verify signed OCI artifacts and provenance before promoting GPU worker images |
 | [huggingface/diffusers](https://github.com/huggingface/diffusers) | Diffusion-model inference and training library for image, audio and video pipelines | GPU Media & ComfyUI | — | Unverified | Voshu Compute/Studios: reference pipelines and model schedulers for reproducible GPU jobs beyond ComfyUI graphs |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | Open-source software development agent platform | Agent Frameworks | — | Unverified | Voshu Agent/Commander: compare sandboxed developer-agent execution and approval boundaries; do not delegate authorization to model prompts |
+
+| [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | NVIDIA optimized inference runtime for language and visual models | Models & Inference | — | Unverified | Benchmark Router / Compute GPU inference; verify hardware compatibility |
