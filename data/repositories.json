@@ -4783,5 +4783,20 @@
     "voshu_use": "Voshu Agent/Commander: compare sandboxed developer-agent execution and approval boundaries; do not delegate authorization to model prompts",
     "review_status": "Official origin, README, root LICENSE, public unarchived status and observed upstream commit checked; runtime not tested",
     "notes": "Observed commit: https://github.com/OpenHands/OpenHands/commit/8b519a2278008a3b0e88769e97ecc097997dbe59. Last-push timestamp and transitive licensing not independently verified."
+  },
+  {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "purpose": "NVIDIA inference runtime and optimized kernels for large language and visual generation models",
+    "category": "Models & Inference",
+    "stars": null,
+    "language": "C++ / Python",
+    "license": "Apache-2.0 (root; third-party components may differ)",
+    "last_push": null,
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Benchmark as a possible high-throughput NVIDIA inference backend for Voshu Router/Compute; assess RTX 4060/2060 support, memory requirements, deployment footprint and compatibility before adoption.",
+    "review_status": "README and root LICENSE verified; public unarchived upstream; observed commit verified; last push timestamp and benchmarks pending",
+    "notes": "Observed upstream commit: https://github.com/NVIDIA/TensorRT-LLM/commit/7d04fb91f9a68d8dcb0ca0a9a97446bc095dba61. No third-party code executed."
   }
 ]
