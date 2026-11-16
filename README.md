@@ -405,3 +405,8 @@ Four original projects reviewed for local-first data, realtime collaboration and
 ### GPT Scout — November 15, 2026, 22:00 ET
 
 2 new verified upstream projects added (309 total): [Comfy-Org/Comfy-Desktop](https://github.com/Comfy-Org/Comfy-Desktop), [NVIDIA/garak](https://github.com/NVIDIA/garak). See [dated research and upstream commits](reports/daily/2026-11-15-gpt-scout-2200.md). Original manual notes preserved; local F: inventory not rescanned.
+
+
+### Scout update — 2026-11-16
+
+Two original GPU-workflow reference repositories were verified: [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) and [Modal Examples](https://github.com/modal-labs/modal-examples). The [dated report](reports/daily/2026-11-16-gpt-scout-0000.md) covers source/licensing evidence, provenance manifests and integration gaps. No local drive audit was performed.
