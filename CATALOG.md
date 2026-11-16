@@ -412,3 +412,11 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | [NVIDIA/garak](https://github.com/NVIDIA/garak) | Apache-2.0 | Security & Evaluation | Voshu Router and Commander: offline evaluation harness for prompt-injection, model-output and leakage regressions; do not run against production endpoints without scope controls. |
 
 [Full evidence and upstream commit links](reports/daily/2026-11-15-gpt-scout-2200.md). Latest-push timestamps and dependency-level licenses pending.
+
+
+## GPT Scout — 2026-11-16: GPU workflow references
+
+| Repository | License | Voshu relevance | Verification |
+|---|---|---|---|
+| [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) | ISC-like workflow-specific permissive grant (see root LICENSE) | Reference workflows for Voshu Compute GPU media pipeline; extract graph, pin model hashes/custom-node commits, record execution environment before reproducibility claims. | [Report](reports/daily/2026-11-16-gpt-scout-0000.md) |
+| [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) | MIT | Compare GPU worker scheduling, sandbox isolation, queue behavior and model-loading patterns with Voshu Compute; cloud-hosted Modal is an optional reference, not local Proxmox replacement. | [Report](reports/daily/2026-11-16-gpt-scout-0000.md) |
