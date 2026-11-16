@@ -410,3 +410,7 @@ Four original projects reviewed for local-first data, realtime collaboration and
 ### Scout update — 2026-11-16
 
 Two original GPU-workflow reference repositories were verified: [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) and [Modal Examples](https://github.com/modal-labs/modal-examples). The [dated report](reports/daily/2026-11-16-gpt-scout-0000.md) covers source/licensing evidence, provenance manifests and integration gaps. No local drive audit was performed.
+
+## Scout additions — 2026-11-16
+
+[Research report](reports/daily/2026-11-16-gpt-scout-0200.md) · 314 catalog entries after this pass. Verified ComfyUI media additions: [Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite), [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF), [ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack). Adoption requires isolated dependency and license review.
