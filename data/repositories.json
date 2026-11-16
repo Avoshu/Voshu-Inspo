@@ -4633,5 +4633,35 @@
     "voshu_use": "Voshu Router and Commander: offline evaluation harness for prompt-injection, model-output and leakage regressions; do not run against production endpoints without scope controls.",
     "review_status": "Verified upstream; adoption pending",
     "notes": "Original README and root LICENSE inspected 2026-11-15; public and unarchived; observed upstream commit https://github.com/NVIDIA/garak/commit/892779207cbc38f65a738ef9cbdfbc1e83aa0b55. Latest push timestamp not independently verified."
+  },
+  {
+    "repo": "comfyanonymous/ComfyUI_examples",
+    "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+    "purpose": "Original ComfyUI example workflows embedded in image metadata; image/video/audio graph references.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "ISC-like workflow-specific permissive grant (see root LICENSE)",
+    "last_push": "2025-11-26",
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Reference workflows for Voshu Compute GPU media pipeline; extract graph, pin model hashes/custom-node commits, record execution environment before reproducibility claims.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Original creator repo; root README/LICENSE inspected. Last observed commit f9431bb000ce792094ff345446e22cac1ea6cef3 (2025-11-26). LICENSE grants workflow use/copy/modify/distribution; not an SPDX-declared license. Graph metadata alone does not pin dependencies."
+  },
+  {
+    "repo": "modal-labs/modal-examples",
+    "url": "https://github.com/modal-labs/modal-examples",
+    "purpose": "Official Modal examples for GPU jobs, queues, sandboxes, scheduling and distributed execution.",
+    "category": "GPU Media & Cloud Compute",
+    "stars": null,
+    "language": "Python",
+    "license": "MIT",
+    "last_push": "2026-11-10",
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Compare GPU worker scheduling, sandbox isolation, queue behavior and model-loading patterns with Voshu Compute; cloud-hosted Modal is an optional reference, not local Proxmox replacement.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Official Modal Labs org, root README/LICENSE inspected. Observed commit dfcf4a21a3b87ca6f1cd25e3db227f4d319ff50e. GitHub org activity shows updated 2026-11-10; exact last push timestamp unverified."
   }
 ]
