@@ -402,3 +402,13 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | Infrastructure Automation | MIT | Voshu Host: operator-friendly approval and execution UI for infrastructure tasks; review role permissions and security advisories. |
 
 [Research and upstream commits](reports/daily/2026-11-15-gpt-scout-0800.md)
+
+
+## GPT Scout verified additions — 2026-11-15 22:00 ET
+
+| Repository | License | Category | Voshu use |
+|---|---|---|---|
+| [Comfy-Org/Comfy-Desktop](https://github.com/Comfy-Org/Comfy-Desktop) | AGPL-3.0-or-later OR commercial license | GPU Media & Workflows | Voshu Compute: reference for GPU workstation packaging, ComfyUI dependency management and safe update UX; evaluate AGPL/commercial terms before integration. |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | Apache-2.0 | Security & Evaluation | Voshu Router and Commander: offline evaluation harness for prompt-injection, model-output and leakage regressions; do not run against production endpoints without scope controls. |
+
+[Full evidence and upstream commit links](reports/daily/2026-11-15-gpt-scout-2200.md). Latest-push timestamps and dependency-level licenses pending.
