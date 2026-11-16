@@ -4663,5 +4663,50 @@
     "voshu_use": "Compare GPU worker scheduling, sandbox isolation, queue behavior and model-loading patterns with Voshu Compute; cloud-hosted Modal is an optional reference, not local Proxmox replacement.",
     "review_status": "Verified source; adoption pending",
     "notes": "Official Modal Labs org, root README/LICENSE inspected. Observed commit dfcf4a21a3b87ca6f1cd25e3db227f4d319ff50e. GitHub org activity shows updated 2026-11-10; exact last push timestamp unverified."
+  },
+  {
+    "repo": "Kosinkadink/ComfyUI-VideoHelperSuite",
+    "url": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
+    "purpose": "ComfyUI video I/O and frame processing nodes",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": "Python",
+    "license": "GPL-3.0",
+    "last_push": null,
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Compute/Studios: ingest and export video frames in pinned, reproducible media workflows",
+    "review_status": "README, root license and default-branch commit inspected; runtime not tested",
+    "notes": "Upstream observed commit: https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/commit/4d907bee61e92c2e65af3bd6383a4e4d356126d1. Push timestamp not independently verified. Verify dependencies and licensing before adoption."
+  },
+  {
+    "repo": "city96/ComfyUI-GGUF",
+    "url": "https://github.com/city96/ComfyUI-GGUF",
+    "purpose": "GGUF quantized model loading for ComfyUI transformer/DiT workflows",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Compute: evaluate VRAM-saving quantized diffusion models on constrained GPUs; benchmark quality and compatibility",
+    "review_status": "README, root license and default-branch commit inspected; runtime not tested",
+    "notes": "Upstream observed commit: https://github.com/city96/ComfyUI-GGUF/commit/6ea2651e7df66d7585f6ffee804b20e92fb38b8a. Push timestamp not independently verified. Verify dependencies and licensing before adoption."
+  },
+  {
+    "repo": "ltdrdata/ComfyUI-Impact-Pack",
+    "url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+    "purpose": "ComfyUI custom-node pack for detection, segmentation and image refinement workflows",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": "Python",
+    "license": "GPL-3.0",
+    "last_push": null,
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Studios: controlled image segmentation/detailing graphs; pin custom-node commits and isolate dependencies",
+    "review_status": "README, root license and default-branch commit inspected; runtime not tested",
+    "notes": "Upstream observed commit: https://github.com/ltdrdata/ComfyUI-Impact-Pack/commit/0778918a44803a7fc81bbdc9d0aa287ac2da1ad7. Push timestamp not independently verified. Verify dependencies and licensing before adoption."
   }
 ]
