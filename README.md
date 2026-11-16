@@ -400,3 +400,8 @@ Four original projects reviewed for local-first data, realtime collaboration and
 ### GPT Scout — 2026-11-15 08:00 ET
 
 2 verified original repositories added: [Comfy-Org/comfy-cli](https://github.com/Comfy-Org/comfy-cli), [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore). [Read the dated report](reports/daily/2026-11-15-gpt-scout-0800.md) for upstream commits, licensing and architecture notes. Existing local inventory remains the November 12 snapshot.
+
+
+### GPT Scout — November 15, 2026, 22:00 ET
+
+2 new verified upstream projects added (309 total): [Comfy-Org/Comfy-Desktop](https://github.com/Comfy-Org/Comfy-Desktop), [NVIDIA/garak](https://github.com/NVIDIA/garak). See [dated research and upstream commits](reports/daily/2026-11-15-gpt-scout-2200.md). Original manual notes preserved; local F: inventory not rescanned.
