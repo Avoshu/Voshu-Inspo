@@ -422,3 +422,7 @@ Five verified original GitHub repositories added across GPU media, supply-chain 
 ### GPT Scout update — 2026-11-16 08:53 ET
 
 - [Research report](reports/daily/2026-11-16-gpt-scout-0853.md): NVIDIA TensorRT-LLM inference runtime verification and Voshu Router/Compute evaluation notes. Catalog baseline 319 → 320 entries; runtime benchmarks pending.
+
+## Scout update — 2026-11-16 22:00 ET
+
+Added 3 original, README/license-reviewed repositories: [Comfy-Org/registry-backend](https://github.com/Comfy-Org/registry-backend), [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite), [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks). See [dated report](reports/daily/2026-11-16-gpt-scout-2200.md) for observed commits, license caveats and Voshu architecture notes. Catalog now contains 323 entries. No local F: drive audit or Studios lead-ledger write was performed.
