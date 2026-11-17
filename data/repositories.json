@@ -4903,5 +4903,50 @@
     "voshu_use": "Voshu workflow UX: compare self-hosted integration architecture and workflow editor with n8n; not a recommendation to change CT178.",
     "review_status": "Verified source; adoption pending",
     "notes": "Official README and root license inspected 2026-11-17. Observed commit https://github.com/automatisch/automatisch/commit/41f3c56a163103cae761bb44f03638cb84e859ee. Activity timestamp is observed commit, not independently verified latest push. No runtime test."
+  },
+  {
+    "repo": "Comfy-Org/comfy-mcp",
+    "url": "https://github.com/Comfy-Org/comfy-mcp",
+    "purpose": "Official local ComfyUI MCP server for agent-controlled workflows with consent gates.",
+    "category": "MCP & Integrations",
+    "stars": null,
+    "language": null,
+    "license": "AGPL-3.0-or-later OR commercial",
+    "last_push": "2026-11-14T18:43:34Z",
+    "last_checked": "2026-11-17",
+    "score": null,
+    "voshu_use": "Commander custom MCP integration candidate: isolate local GPU access; preserve approval gates for spend, installs, destructive operations and network exposure.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Official README and root LICENSE inspected 2026-11-17. Observed default-branch commit https://github.com/Comfy-Org/comfy-mcp/commit/a99599f42f85a7d4350a4c806761a4222b86e93b; commit date is not independently verified latest push. No code execution or integration test."
+  },
+  {
+    "repo": "Comfy-Org/comfy-skills",
+    "url": "https://github.com/Comfy-Org/comfy-skills",
+    "purpose": "Official agent skills and MCP connection for Comfy Cloud media generation and Comfy SDK.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": "2026-11-11T05:22:12Z",
+    "last_checked": "2026-11-17",
+    "score": null,
+    "voshu_use": "Voshu Studios and Compute: reference for workflow generation, reusable agent skills and batch media production; cloud operations may incur credits.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Official README and root LICENSE inspected 2026-11-17. Observed default-branch commit https://github.com/Comfy-Org/comfy-skills/commit/88116d739487ade507ef41e711c4fbd71ed77ac9; commit date is not independently verified latest push. No code execution or integration test."
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI-Standalone-Environments",
+    "url": "https://github.com/Comfy-Org/ComfyUI-Standalone-Environments",
+    "purpose": "Standalone PyTorch/CUDA environment manifests for ComfyUI Desktop 2.0.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": "2026-10-24T00:14:48Z",
+    "last_checked": "2026-11-17",
+    "score": null,
+    "voshu_use": "Voshu Compute: reference for versioned GPU environment matrices, CI validation and explicit fallback-mirror staleness controls.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Official README and root LICENSE inspected 2026-11-17. Observed default-branch commit https://github.com/Comfy-Org/ComfyUI-Standalone-Environments/commit/fe00ec4cd3fa42d1566096da457d3d399b141a40; commit date is not independently verified latest push. No code execution or integration test."
   }
 ]
