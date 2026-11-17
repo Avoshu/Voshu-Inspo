@@ -4798,5 +4798,50 @@
     "voshu_use": "Benchmark as a possible high-throughput NVIDIA inference backend for Voshu Router/Compute; assess RTX 4060/2060 support, memory requirements, deployment footprint and compatibility before adoption.",
     "review_status": "README and root LICENSE verified; public unarchived upstream; observed commit verified; last push timestamp and benchmarks pending",
     "notes": "Observed upstream commit: https://github.com/NVIDIA/TensorRT-LLM/commit/7d04fb91f9a68d8dcb0ca0a9a97446bc095dba61. No third-party code executed."
+  },
+  {
+    "repo": "Comfy-Org/registry-backend",
+    "url": "https://github.com/Comfy-Org/registry-backend",
+    "purpose": "Official Comfy Registry backend for versioned custom-node publishing and registry APIs.",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "GPL-3.0",
+    "last_push": "2026-08-21T19:14:36Z",
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Compute: study node provenance, registry version resolution and installation approval boundaries; do not deploy registry backend without license review.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "README and root LICENSE checked 2026-11-16. Observed commit https://github.com/Comfy-Org/registry-backend/commit/c4fd416025996de3729c61b58f7a4c2be5fbdfdf. Last activity is observed commit time, not verified latest push."
+  },
+  {
+    "repo": "electric-sql/electric-pglite",
+    "url": "https://github.com/electric-sql/electric-pglite",
+    "purpose": "WASM PostgreSQL database for browser and local-first applications.",
+    "category": "Local-first Databases & Sync",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": "2026-11-16T09:15:59Z",
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Atlas and Library: evaluate embedded Postgres for offline indexing and local state; PGlite alone is not a multiuser sync service.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "README and root LICENSE checked 2026-11-16. Observed commit https://github.com/electric-sql/electric-pglite/commit/5ece6ad149d33607b2d72c8819af72a30baffff3. Last activity is observed commit time, not verified latest push."
+  },
+  {
+    "repo": "liveblocks/liveblocks",
+    "url": "https://github.com/liveblocks/liveblocks",
+    "purpose": "Realtime collaborative application components, presence and shared state.",
+    "category": "Realtime Collaboration & UX",
+    "stars": null,
+    "language": null,
+    "license": "Mixed Apache-2.0 / AGPL-3.0-or-later",
+    "last_push": "2026-11-16T16:45:36Z",
+    "last_checked": "2026-11-16",
+    "score": null,
+    "voshu_use": "Voshu Atlas and Library: reference collaborative cursors, presence and multi-pane shared editing; review per-package license and hosted-service dependence.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "README and root LICENSE checked 2026-11-16. Observed commit https://github.com/liveblocks/liveblocks/commit/d169ba3753478b3280ea1c1070074d5a43ddb736. Last activity is observed commit time, not verified latest push."
   }
 ]
