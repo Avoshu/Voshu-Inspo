@@ -430,3 +430,9 @@ Evidence: [official README](https://github.com/NVIDIA/NeMo-Agent-Toolkit/blob/de
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | Open-source software development agent platform | Agent Frameworks | — | Unverified | Voshu Agent/Commander: compare sandboxed developer-agent execution and approval boundaries; do not delegate authorization to model prompts |
 
 | [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | NVIDIA optimized inference runtime for language and visual models | Models & Inference | — | Unverified | Benchmark Router / Compute GPU inference; verify hardware compatibility |
+
+## Scout verified additions — 2026-11-16 22:00 ET
+
+| [Comfy-Org/registry-backend](https://github.com/Comfy-Org/registry-backend) | Official Comfy Registry backend for versioned custom-node publishing and registry APIs. | GPU Media & ComfyUI | — | 2026-08-21 (observed commit) | Voshu Compute: study node provenance, registry version resolution and installation approval boundaries; do not deploy registry backend without license review. |
+| [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) | WASM PostgreSQL database for browser and local-first applications. | Local-first Databases & Sync | — | 2026-11-16 (observed commit) | Voshu Atlas and Library: evaluate embedded Postgres for offline indexing and local state; PGlite alone is not a multiuser sync service. |
+| [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) | Realtime collaborative application components, presence and shared state. | Realtime Collaboration & UX | — | 2026-11-16 (observed commit) | Voshu Atlas and Library: reference collaborative cursors, presence and multi-pane shared editing; review per-package license and hosted-service dependence. |
