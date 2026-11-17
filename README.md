@@ -430,3 +430,11 @@ Added 3 original, README/license-reviewed repositories: [Comfy-Org/registry-back
 ## GPT Scout discoveries — 2026-11-17
 
 Four original repositories added after canonical-URL deduplication: [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js), [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails), [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea), [automatisch/automatisch](https://github.com/automatisch/automatisch). See [the dated research report](reports/daily/2026-11-17-gpt-scout-0003.md) for upstream commit evidence, license boundaries, and Voshu-specific assessment. No third-party code was executed.
+
+### GPT Scout additions — 2026-11-17 (02:00 ET)
+
+- [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp) — Commander custom MCP integration candidate: isolate local GPU access; preserve approval gates for spend, installs, destructive operations and network exposure.
+- [Comfy-Org/comfy-skills](https://github.com/Comfy-Org/comfy-skills) — Voshu Studios and Compute: reference for workflow generation, reusable agent skills and batch media production; cloud operations may incur credits.
+- [Comfy-Org/ComfyUI-Standalone-Environments](https://github.com/Comfy-Org/ComfyUI-Standalone-Environments) — Voshu Compute: reference for versioned GPU environment matrices, CI validation and explicit fallback-mirror staleness controls.
+
+[Verification and architecture notes](reports/daily/2026-11-17-gpt-scout-0200.md). Catalog now has 330 records. Existing historical auto-discovery snapshot above is retained unchanged.
