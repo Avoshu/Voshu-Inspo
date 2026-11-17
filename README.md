@@ -426,3 +426,7 @@ Five verified original GitHub repositories added across GPU media, supply-chain 
 ## Scout update — 2026-11-16 22:00 ET
 
 Added 3 original, README/license-reviewed repositories: [Comfy-Org/registry-backend](https://github.com/Comfy-Org/registry-backend), [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite), [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks). See [dated report](reports/daily/2026-11-16-gpt-scout-2200.md) for observed commits, license caveats and Voshu architecture notes. Catalog now contains 323 entries. No local F: drive audit or Studios lead-ledger write was performed.
+
+## GPT Scout discoveries — 2026-11-17
+
+Four original repositories added after canonical-URL deduplication: [powersync-ja/powersync-js](https://github.com/powersync-ja/powersync-js), [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails), [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea), [automatisch/automatisch](https://github.com/automatisch/automatisch). See [the dated research report](reports/daily/2026-11-17-gpt-scout-0003.md) for upstream commit evidence, license boundaries, and Voshu-specific assessment. No third-party code was executed.
