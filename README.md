@@ -449,3 +449,12 @@ See [the dated research report](reports/daily/2026-11-17-gpt-scout-0400.md) for 
 ## GPT Scout verified discovery — November 17, 2026 (06:00 ET)
 
 [NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/Speech) — Apache-2.0 speech AI research for Voshu Agent 2.0. Catalog: 333 entries. [Dated verification and Studios lead-search report](reports/daily/2026-11-17-gpt-scout-0600.md). Existing local inventory is a historical snapshot, not a fresh device audit.
+
+## GPT Scout verified discovery — November 17, 2026 (08:00 ET)
+
+- [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) — Voshu Host and Commander: reference for narrowly scoped Proxmox inventory, lifecycle and task polling; route through Commander approval and audit, never unrestricted host control.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) — Voshu Library: evaluate embedded vector search for GitHub documents, media and provenance; keep canonical source links and enforce per-repository access control.
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) — Voshu Host: future reference for PostgreSQL failover and backups only if Kubernetes becomes justified; current Proxmox/Docker stack does not require it.
+- [getsentry/relay](https://github.com/getsentry/relay) — Voshu Router and Commander: architectural reference for telemetry ingress filtering and privacy boundaries; restrictive FSL requires legal review before reuse.
+
+Catalog: 337 entries. [Evidence and architecture report](reports/daily/2026-11-17-gpt-scout-0800.md). No third-party code or prospect outreach.
