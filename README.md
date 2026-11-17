@@ -445,3 +445,7 @@ Four original repositories added after canonical-URL deduplication: [powersync-j
 - [LlamaIndex](https://github.com/run-llama/llama_index): retrieval and provenance architecture reference for Voshu Library. MIT; integration not tested.
 
 See [the dated research report](reports/daily/2026-11-17-gpt-scout-0400.md) for upstream commits, exclusions and verification boundaries.
+
+## GPT Scout verified discovery — November 17, 2026 (06:00 ET)
+
+[NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/Speech) — Apache-2.0 speech AI research for Voshu Agent 2.0. Catalog: 333 entries. [Dated verification and Studios lead-search report](reports/daily/2026-11-17-gpt-scout-0600.md). Existing local inventory is a historical snapshot, not a fresh device audit.
