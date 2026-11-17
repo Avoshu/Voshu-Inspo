@@ -4948,5 +4948,35 @@
     "voshu_use": "Voshu Compute: reference for versioned GPU environment matrices, CI validation and explicit fallback-mirror staleness controls.",
     "review_status": "Verified source; adoption pending",
     "notes": "Official README and root LICENSE inspected 2026-11-17. Observed default-branch commit https://github.com/Comfy-Org/ComfyUI-Standalone-Environments/commit/fe00ec4cd3fa42d1566096da457d3d399b141a40; commit date is not independently verified latest push. No code execution or integration test."
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "purpose": "Community receivers, processors, exporters and extensions for OpenTelemetry Collector.",
+    "category": "Infrastructure & Observability",
+    "stars": null,
+    "language": "Go",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-17",
+    "score": null,
+    "voshu_use": "Voshu Commander/Router/Host: reference for centralizing agent tool-call traces, gateway latency, infrastructure metrics and privacy-scoped telemetry pipelines.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Official README and root LICENSE inspected 2026-11-17. Observed commit https://github.com/open-telemetry/opentelemetry-collector-contrib/commit/7852e567b6fb10bcdc3fec46c6805a8a0477d699 (2026-11-17T06:17:51Z). Latest push not independently established; no runtime test."
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "url": "https://github.com/run-llama/llama_index",
+    "purpose": "Framework for indexing, retrieval, data connectors and context-augmented LLM applications.",
+    "category": "Agent Orchestration & Retrieval",
+    "stars": null,
+    "language": "Python",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-17",
+    "score": null,
+    "voshu_use": "Voshu Library: evaluate source-aware indexing and retrieval over canonical GitHub documentation, with ACL enforcement, provenance and incremental refresh.",
+    "review_status": "Verified source; adoption pending",
+    "notes": "Original README and root LICENSE inspected 2026-11-17. Observed commit https://github.com/run-llama/llama_index/commit/99d7433f6f71888951379ccca9294e272442c832 (2026-11-14T02:10:23Z). Latest push not independently established; no runtime test."
   }
 ]
