@@ -438,3 +438,10 @@ Four original repositories added after canonical-URL deduplication: [powersync-j
 - [Comfy-Org/ComfyUI-Standalone-Environments](https://github.com/Comfy-Org/ComfyUI-Standalone-Environments) — Voshu Compute: reference for versioned GPU environment matrices, CI validation and explicit fallback-mirror staleness controls.
 
 [Verification and architecture notes](reports/daily/2026-11-17-gpt-scout-0200.md). Catalog now has 330 records. Existing historical auto-discovery snapshot above is retained unchanged.
+
+## Scout additions — 2026-11-17 (04:00 ET)
+
+- [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib): telemetry collection and pipeline components for Commander, Router and Host. Apache-2.0; integration not tested.
+- [LlamaIndex](https://github.com/run-llama/llama_index): retrieval and provenance architecture reference for Voshu Library. MIT; integration not tested.
+
+See [the dated research report](reports/daily/2026-11-17-gpt-scout-0400.md) for upstream commits, exclusions and verification boundaries.
