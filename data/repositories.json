@@ -5143,5 +5143,20 @@
     "voshu_use": "Reference retry, cancellation, durable job progress and approval-resumption patterns for Commander and Voshu Compute.",
     "review_status": "README and root license verified; maintenance timestamp pending",
     "notes": "Official temporalio organization; public non-archived. Example code not executed."
+  },
+  {
+    "repo": "Telmate/terraform-provider-proxmox",
+    "url": "https://github.com/Telmate/terraform-provider-proxmox",
+    "purpose": "Terraform provider for Proxmox QEMU VMs and LXC containers; compare with bpg provider",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": "Go",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Voshu Host: declarative Proxmox VM/LXC provisioning; test drift and lifecycle behavior",
+    "review_status": "README/license/observed commit verified; runtime untested",
+    "notes": "Observed commit 2026-10-31 https://github.com/Telmate/terraform-provider-proxmox/commit/a864b97abd1b9bfc97a602b5627783a422863aa0; README warns of VM update and LXC rootfs limitations."
   }
 ]
