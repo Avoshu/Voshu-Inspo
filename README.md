@@ -462,3 +462,8 @@ Catalog: 337 entries. [Evidence and architecture report](reports/daily/2026-11-1
 ### Scout update — 2026-11-17 evening
 
 Four verified infrastructure references added: [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit), [restic](https://github.com/restic/restic), [Caddy](https://github.com/caddyserver/caddy), and [Grafana Tempo](https://github.com/grafana/tempo). See [dated research report](reports/daily/2026-11-17-gpt-scout-2200.md) for commit evidence, licenses and Voshu integration considerations. No Studios leads are stored in this repository.
+
+
+### Scout additions — 2026-11-18
+
+Two official Temporal references added: [AI integrations](https://github.com/temporalio/ai-integrations) and [TypeScript samples](https://github.com/temporalio/samples-typescript). See [the dated scout report](reports/daily/2026-11-18-gpt-scout-0003.md). Last-push timestamps and runtime compatibility remain unverified.
