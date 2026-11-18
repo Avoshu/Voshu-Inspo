@@ -467,3 +467,7 @@ Four verified infrastructure references added: [NVIDIA Container Toolkit](https:
 ### Scout additions — 2026-11-18
 
 Two official Temporal references added: [AI integrations](https://github.com/temporalio/ai-integrations) and [TypeScript samples](https://github.com/temporalio/samples-typescript). See [the dated scout report](reports/daily/2026-11-18-gpt-scout-0003.md). Last-push timestamps and runtime compatibility remain unverified.
+
+### GPT Scout — 2026-11-18
+
+- [02:04 ET research report](reports/daily/2026-11-18-gpt-scout-0204.md): Telmate Proxmox Terraform provider; Studios public-request screening (no accepted lead).
