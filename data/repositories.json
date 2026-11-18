@@ -5158,5 +5158,20 @@
     "voshu_use": "Voshu Host: declarative Proxmox VM/LXC provisioning; test drift and lifecycle behavior",
     "review_status": "README/license/observed commit verified; runtime untested",
     "notes": "Observed commit 2026-10-31 https://github.com/Telmate/terraform-provider-proxmox/commit/a864b97abd1b9bfc97a602b5627783a422863aa0; README warns of VM update and LXC rootfs limitations."
+  },
+  {
+    "repo": "automerge/automerge-repo",
+    "url": "https://github.com/automerge/automerge-repo",
+    "purpose": "Document-oriented CRDT repository with pluggable network and storage adapters for local-first collaboration",
+    "category": "Local-first & Realtime Sync",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Evaluate offline collaborative Atlas panes and Library annotations; compare with PowerSync/PGlite and independently enforce authorization",
+    "review_status": "Research candidate",
+    "notes": "Official Automerge organization; README and root LICENSE inspected 2026-11-18. Organization listing updated Nov 16; exact commit SHA and latest push not independently verified. No runtime testing."
   }
 ]
