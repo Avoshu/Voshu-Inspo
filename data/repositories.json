@@ -5113,5 +5113,35 @@
     "voshu_use": "Trace agent requests across Commander, Router and Host with privacy-aware retention and correlation IDs; evaluate storage/operational overhead.",
     "review_status": "Research verified; integration not tested",
     "notes": "README and root LICENSE inspected; observed GitHub commit 6d180dd7f5e91ddbe97753dff25206ae6e2cca41; last_push is observed commit time, not independently verified push time."
+  },
+  {
+    "repo": "temporalio/ai-integrations",
+    "url": "https://github.com/temporalio/ai-integrations",
+    "purpose": "Official Temporal plugins connecting AI agent frameworks and SDKs to durable workflow execution.",
+    "category": "Agent Frameworks",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Evaluate durable agent handoffs and retries for Voshu Agent 2.0 and Commander; preserve Commander's tool authorization boundary.",
+    "review_status": "README and root license verified; maintenance timestamp pending",
+    "notes": "Official temporalio organization; public non-archived. Per-package licensing and integration compatibility need review. No runtime test."
+  },
+  {
+    "repo": "temporalio/samples-typescript",
+    "url": "https://github.com/temporalio/samples-typescript",
+    "purpose": "Official examples of Temporal TypeScript workflows, activities, production patterns, and AI/LLM integrations.",
+    "category": "Agent Frameworks",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Reference retry, cancellation, durable job progress and approval-resumption patterns for Commander and Voshu Compute.",
+    "review_status": "README and root license verified; maintenance timestamp pending",
+    "notes": "Official temporalio organization; public non-archived. Example code not executed."
   }
 ]
