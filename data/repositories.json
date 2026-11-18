@@ -5203,5 +5203,50 @@
     "voshu_use": "Future reference for repeatable multi-cluster lifecycle if Voshu Host adopts Kubernetes; avoid unnecessary migration from Proxmox",
     "review_status": "Research candidate",
     "notes": "Official upstream README and root LICENSE inspected 2026-11-18; observed default-branch commit beaa014afda2ed8a42e47922ef505570df77ddee dated 2026-11-18T10:40:25Z. Exact latest-push unverified; no runtime testing."
+  },
+  {
+    "repo": "cloudflare/sandbox-sdk",
+    "url": "https://github.com/cloudflare/sandbox-sdk",
+    "purpose": "Cloudflare Sandbox SDK for isolated code execution and development environments",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "last_push": "Unverified",
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Evaluate isolated per-agent execution environments for Commander/Host; independently enforce authorization, resource quotas and egress controls.",
+    "review_status": "Research candidate",
+    "notes": "Original upstream README and root license inspected; observed commit 61cac81b53334b314e4a4daf04486b9cee9b65c2; no deployment test."
+  },
+  {
+    "repo": "astral-sh/ty",
+    "url": "https://github.com/astral-sh/ty",
+    "purpose": "Fast Python type checker and language tooling by Astral",
+    "category": "Developer Tools",
+    "stars": null,
+    "language": "Rust",
+    "license": "MIT",
+    "last_push": "Unverified",
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Evaluate static checking for Python utilities in Voshu Agent, Compute and infrastructure scripts; no replacement without CI comparison.",
+    "review_status": "Research candidate",
+    "notes": "Original upstream README and root license inspected; observed commit 523fabd73500e468efeb02781245f2374e97c733; no runtime test."
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "purpose": "Open-source terminal-first coding agent and developer interface",
+    "category": "Developer Tools",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT",
+    "last_push": "Unverified",
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Study multi-provider coding-agent UX, sessions and developer workflow patterns for Voshu Commander toolkit; keep control-plane security separate.",
+    "review_status": "Research candidate",
+    "notes": "Original upstream README and root license inspected; observed commit 79bd2c6f11fd5ad011dbe5a1c31343c46e1e5294; no code executed."
   }
 ]
