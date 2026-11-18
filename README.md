@@ -481,3 +481,8 @@ Two official Temporal references added: [AI integrations](https://github.com/tem
 
 - Added [Apache Airflow](https://github.com/apache/airflow) and [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api) as research references (Apache-2.0, upstream README/license and commits inspected).
 - [Dated scout report](reports/daily/2026-11-18-gpt-scout-0604.md). No changes to the shared Studios lead ledger.
+
+### Scout update — 2026-11-18 08:04 ET
+
+- Added [Cloudflare Sandbox SDK](https://github.com/cloudflare/sandbox-sdk), [Astral ty](https://github.com/astral-sh/ty) and [OpenCode](https://github.com/anomalyco/opencode) as verified research candidates; upstream README and root license inspected.
+- [Dated scout report](reports/daily/2026-11-18-gpt-scout-0804.md) includes commit evidence, architecture gaps and public lead screening. No Studios lead ledger changes.
