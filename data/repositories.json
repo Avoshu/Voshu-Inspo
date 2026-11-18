@@ -5173,5 +5173,35 @@
     "voshu_use": "Evaluate offline collaborative Atlas panes and Library annotations; compare with PowerSync/PGlite and independently enforce authorization",
     "review_status": "Research candidate",
     "notes": "Official Automerge organization; README and root LICENSE inspected 2026-11-18. Organization listing updated Nov 16; exact commit SHA and latest push not independently verified. No runtime testing."
+  },
+  {
+    "repo": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "purpose": "Apache Airflow: scheduled DAGs and durable data pipeline orchestration",
+    "category": "Workflow Automation & Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Reference for batch ETL and scheduled catalog indexing in Voshu Library; not a replacement for n8n or Commander tool authorization",
+    "review_status": "Research candidate",
+    "notes": "Official upstream README and root LICENSE inspected 2026-11-18; observed default-branch commit 842402c7eeef1698a19030931832e82a81f87795 dated 2026-11-18T10:06:35Z. Exact latest-push unverified; no runtime testing."
+  },
+  {
+    "repo": "kubernetes-sigs/cluster-api",
+    "url": "https://github.com/kubernetes-sigs/cluster-api",
+    "purpose": "Declarative Kubernetes cluster provisioning, upgrade and lifecycle management",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Future reference for repeatable multi-cluster lifecycle if Voshu Host adopts Kubernetes; avoid unnecessary migration from Proxmox",
+    "review_status": "Research candidate",
+    "notes": "Official upstream README and root LICENSE inspected 2026-11-18; observed default-branch commit beaa014afda2ed8a42e47922ef505570df77ddee dated 2026-11-18T10:40:25Z. Exact latest-push unverified; no runtime testing."
   }
 ]
