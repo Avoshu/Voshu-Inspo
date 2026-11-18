@@ -471,3 +471,8 @@ Two official Temporal references added: [AI integrations](https://github.com/tem
 ### GPT Scout — 2026-11-18
 
 - [02:04 ET research report](reports/daily/2026-11-18-gpt-scout-0204.md): Telmate Proxmox Terraform provider; Studios public-request screening (no accepted lead).
+
+### Scout update — 2026-11-18 04:01 ET
+
+- [Automerge Repo](https://github.com/automerge/automerge-repo) added as a research candidate for offline-first Atlas collaboration and Library annotations; MIT root license and README inspected.
+- [Dated verification and Studios lead-gate report](reports/daily/2026-11-18-gpt-scout-0401.md). No shared Studios lead ledger modification.
