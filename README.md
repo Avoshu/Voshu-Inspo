@@ -458,3 +458,7 @@ See [the dated research report](reports/daily/2026-11-17-gpt-scout-0400.md) for 
 - [getsentry/relay](https://github.com/getsentry/relay) — Voshu Router and Commander: architectural reference for telemetry ingress filtering and privacy boundaries; restrictive FSL requires legal review before reuse.
 
 Catalog: 337 entries. [Evidence and architecture report](reports/daily/2026-11-17-gpt-scout-0800.md). No third-party code or prospect outreach.
+
+### Scout update — 2026-11-17 evening
+
+Four verified infrastructure references added: [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit), [restic](https://github.com/restic/restic), [Caddy](https://github.com/caddyserver/caddy), and [Grafana Tempo](https://github.com/grafana/tempo). See [dated research report](reports/daily/2026-11-17-gpt-scout-2200.md) for commit evidence, licenses and Voshu integration considerations. No Studios leads are stored in this repository.
