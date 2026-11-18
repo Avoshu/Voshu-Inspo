@@ -476,3 +476,8 @@ Two official Temporal references added: [AI integrations](https://github.com/tem
 
 - [Automerge Repo](https://github.com/automerge/automerge-repo) added as a research candidate for offline-first Atlas collaboration and Library annotations; MIT root license and README inspected.
 - [Dated verification and Studios lead-gate report](reports/daily/2026-11-18-gpt-scout-0401.md). No shared Studios lead ledger modification.
+
+### Scout update — 2026-11-18 06:04 ET
+
+- Added [Apache Airflow](https://github.com/apache/airflow) and [Kubernetes Cluster API](https://github.com/kubernetes-sigs/cluster-api) as research references (Apache-2.0, upstream README/license and commits inspected).
+- [Dated scout report](reports/daily/2026-11-18-gpt-scout-0604.md). No changes to the shared Studios lead ledger.
