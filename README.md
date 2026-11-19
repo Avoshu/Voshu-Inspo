@@ -498,3 +498,11 @@ Added 3 verified references for durable actors and GenAI telemetry. [Read the da
 ## GPT Scout — 2026-11-19 02:04 ET
 
 Three new research references: [rgthree-comfy](https://github.com/rgthree/rgthree-comfy), [LTXVideo ComfyUI nodes](https://github.com/Lightricks/ComfyUI-LTXVideo) (custom license), and [Pulse](https://github.com/rcourtman/Pulse). [Read the dated report](reports/daily/2026-11-19-gpt-scout-0204.md). Machine-readable catalog: 357 entries as of this pass. No Studios leads added.
+
+### Scout spotlight — 2026-11-19: ComfyUI workflow and media UX
+
+- [G-Workflows](https://github.com/AI4VFX/comfyui-g-workflows) (MIT): native workflow browser, tags, thumbnails and multi-folder discovery.
+- [ComfyUI Node Organizer](https://github.com/PBandDev/comfyui-node-organizer) (AGPL-3.0): deterministic group-aware layout; review copyleft obligations before code reuse.
+- [ComfyUI Sidebar Gallery](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) (MIT): output gallery with searchable workflow-derived generation metadata.
+
+These are architecture and UX references for Voshu Studios App, not installed or runtime-tested components. See [the dated report](reports/daily/2026-11-19-gpt-scout-0404.md).
