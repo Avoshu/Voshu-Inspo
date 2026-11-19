@@ -4,6 +4,9 @@ Auto-refreshed metadata; scores are discovery heuristics, not endorsements.
 
 | Repository | Purpose | Category | Stars | Last push | Voshu use |
 | [automerge/automerge-repo](https://github.com/automerge/automerge-repo) | CRDT document sync with pluggable storage and networking | Local-first & Realtime Sync | — | Updated Nov 16 (exact push unverified) | Atlas collaborative panes and Library annotations; evaluate permissions separately |
+| [AI4VFX/comfyui-g-workflows](https://github.com/AI4VFX/comfyui-g-workflows) | Native workflow browser, tags, thumbnails and multi-folder organization | GPU Media & ComfyUI | — | Observed Sep 17 (exact push unverified) | Studios App workflow library UX; MIT |
+| [PBandDev/comfyui-node-organizer](https://github.com/PBandDev/comfyui-node-organizer) | Group-aware graph layout with reusable pure layout library | GPU Media & ComfyUI | — | Observed Mar 24 (exact push unverified) | Studios App graph geometry; AGPL-3.0 review required |
+| [TokenSpender/ComfyUI-Sidebar-Gallery](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) | Searchable output gallery with workflow-derived metadata | GPU Media & ComfyUI | — | Observed Oct 10 (exact push unverified) | Studios App media provenance and gallery; MIT |
 |---|---|---|---:|---|---|
 | [rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy) | ComfyUI workflow quality-of-life nodes, context routing, and graph utilities | GPU Media & ComfyUI | — | Observed 2026-10-30 (push unverified) | Voshu Studios App director graph: evaluate node organization and graph readability; do not execute custom nodes without review |
 | [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | Self-hosted Proxmox, Docker, and Kubernetes monitoring and alerting dashboard | Infrastructure & DevOps | — | Observed 2026-11-19 (push unverified) | Voshu Host and Compute: reference for Proxmox VM/container health, Docker visibility, and alerts; compare with existing telemetry |
