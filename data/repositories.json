@@ -5308,5 +5308,50 @@
     "voshu_use": "Long-term Voshu Compute/Agent reference: multimodal action datasets, hardware control abstractions, and simulation; not an immediate desktop integration",
     "review_status": "Research verified; runtime not tested",
     "notes": "Official Hugging Face upstream; README and root LICENSE checked. v0.7.0 release observed Nov 5 2026 (410c095); exact latest push not verified. Dataset licenses require separate checks."
+  },
+  {
+    "repo": "rgthree/rgthree-comfy",
+    "url": "https://github.com/rgthree/rgthree-comfy",
+    "purpose": "ComfyUI workflow quality-of-life nodes, context routing, and graph utilities",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": "2026-10-30T04:06:01Z",
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Voshu Studios App director graph: evaluate node organization and graph readability; do not execute custom nodes without review",
+    "review_status": "Research verified; integration untested",
+    "notes": "Observed commit https://github.com/rgthree/rgthree-comfy/commit/bc48c6aaeca87bedbc14245d89f9bc6be37a630e; timestamp is observed commit activity, not independently verified latest push."
+  },
+  {
+    "repo": "rcourtman/Pulse",
+    "url": "https://github.com/rcourtman/Pulse",
+    "purpose": "Self-hosted Proxmox, Docker, and Kubernetes monitoring and alerting dashboard",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": "2026-11-19T05:40:28Z",
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Voshu Host and Compute: reference for Proxmox VM/container health, Docker visibility, and alerts; compare with existing telemetry",
+    "review_status": "Research verified; integration untested",
+    "notes": "Observed commit https://github.com/rcourtman/Pulse/commit/4663a03b4a46cd4f9e77e55e0a5a52cd73dd987f; timestamp is observed commit activity, not independently verified latest push."
+  },
+  {
+    "repo": "Lightricks/ComfyUI-LTXVideo",
+    "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+    "purpose": "Official Lightricks ComfyUI custom nodes and workflows for LTX video generation",
+    "category": "GPU Media & ComfyUI",
+    "stars": null,
+    "language": null,
+    "license": "LTX-2 Community License Agreement (custom)",
+    "last_push": "2026-11-12T14:14:51Z",
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Voshu Studios App GPU video director pipeline: graph and media-generation reference only; commercial license and model terms require review",
+    "review_status": "Research verified; integration untested",
+    "notes": "Observed commit https://github.com/Lightricks/ComfyUI-LTXVideo/commit/ced6bad92b82f90028e1e1fd5a37527302550fc5; timestamp is observed commit activity, not independently verified latest push."
   }
 ]
