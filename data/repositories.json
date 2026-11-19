@@ -5398,5 +5398,35 @@
     "last_checked": "2026-11-19",
     "score": null,
     "review_status": "Research verified; integration untested"
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "url": "https://github.com/gitbutlerapp/gitbutler",
+    "purpose": "Git desktop/CLI with virtual branches and parallel change management",
+    "category": "Developer Tools & GitOps",
+    "stars": null,
+    "language": "Rust / TypeScript",
+    "license": "FSL-1.1-MIT (LICENSE.md; source-available, not unrestricted MIT at release)",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": 40,
+    "voshu_use": "Commander Git tooling and parallel agent branch UX; evaluate custom MCP wrapper and FSL production restrictions before reuse",
+    "review_status": "Research verified; adoption pending license review",
+    "notes": "Official upstream; README and LICENSE.md inspected. Observed commit a3d2f57ec26a01b5ffa6124fd2de5eb2dccecc6b on 2026-11-19; exact latest push not verified."
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "purpose": "Local-first collaborative document, whiteboard and knowledge workspace",
+    "category": "Local-first & Realtime Sync",
+    "stars": null,
+    "language": "TypeScript",
+    "license": "MIT for most files; backend/native exceptions per root LICENSE",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": 39,
+    "voshu_use": "Atlas canvas/document integration and Library knowledge UX reference; review backend/native license exceptions and sync authorization",
+    "review_status": "Research verified; adoption pending license review",
+    "notes": "Official upstream; README and root LICENSE inspected. Observed commit dc2b2212441602452f3cf0ea50a4eaedaf03bcc2 on 2026-11-17; exact latest push not verified."
   }
 ]
