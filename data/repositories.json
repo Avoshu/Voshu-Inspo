@@ -5353,5 +5353,50 @@
     "voshu_use": "Voshu Studios App GPU video director pipeline: graph and media-generation reference only; commercial license and model terms require review",
     "review_status": "Research verified; integration untested",
     "notes": "Observed commit https://github.com/Lightricks/ComfyUI-LTXVideo/commit/ced6bad92b82f90028e1e1fd5a37527302550fc5; timestamp is observed commit activity, not independently verified latest push."
+  },
+  {
+    "repo": "AI4VFX/comfyui-g-workflows",
+    "url": "https://github.com/AI4VFX/comfyui-g-workflows",
+    "purpose": "Native ComfyUI workflow file browser, thumbnails, tags, search and multi-folder organization",
+    "category": "GPU Media & ComfyUI",
+    "license": "MIT",
+    "last_push": "2026-09-17T21:06:08Z",
+    "voshu_use": "Studios App: workflow library UX, metadata browsing and native workflow-file organization without a duplicate store",
+    "notes": "Observed commit https://github.com/AI4VFX/comfyui-g-workflows/commit/d6c0ea6cfe0be64693146dd97fde1535d4fe9911; observed commit date, exact latest push unverified.",
+    "stars": null,
+    "language": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "review_status": "Research verified; integration untested"
+  },
+  {
+    "repo": "PBandDev/comfyui-node-organizer",
+    "url": "https://github.com/PBandDev/comfyui-node-organizer",
+    "purpose": "Group-aware ComfyUI graph layout with a reusable pure layout library",
+    "category": "GPU Media & ComfyUI",
+    "license": "AGPL-3.0",
+    "last_push": "2026-03-24T22:26:26Z",
+    "voshu_use": "Studios App: deterministic graph layout and workflow geometry for large director graphs; AGPL obligations require review",
+    "notes": "Observed commit https://github.com/PBandDev/comfyui-node-organizer/commit/d0b18b147b3c576755e1cd7aca3204a85f312e2c; observed commit date, exact latest push unverified.",
+    "stars": null,
+    "language": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "review_status": "Research verified; integration untested"
+  },
+  {
+    "repo": "TokenSpender/ComfyUI-Sidebar-Gallery",
+    "url": "https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery",
+    "purpose": "ComfyUI image/video output gallery with workflow-derived metadata and SQLite search",
+    "category": "GPU Media & ComfyUI",
+    "license": "MIT",
+    "last_push": "2026-10-10T09:25:18Z",
+    "voshu_use": "Studios App: media asset browser, searchable generation provenance and workflow restoration from outputs",
+    "notes": "Observed commit https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery/commit/987fba8019b728ef078db0244a558b32064875cd; observed commit date, exact latest push unverified.",
+    "stars": null,
+    "language": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "review_status": "Research verified; integration untested"
   }
 ]
