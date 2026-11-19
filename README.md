@@ -486,3 +486,7 @@ Two official Temporal references added: [AI integrations](https://github.com/tem
 
 - Added [Cloudflare Sandbox SDK](https://github.com/cloudflare/sandbox-sdk), [Astral ty](https://github.com/astral-sh/ty) and [OpenCode](https://github.com/anomalyco/opencode) as verified research candidates; upstream README and root license inspected.
 - [Dated scout report](reports/daily/2026-11-18-gpt-scout-0804.md) includes commit evidence, architecture gaps and public lead screening. No Studios lead ledger changes.
+
+## GPT Scout — November 18 evening
+
+Added 3 verified references for durable actors and GenAI telemetry. [Read the dated report](reports/daily/2026-11-18-gpt-scout-2203.md). The historical local inventory is not a current drive audit.
