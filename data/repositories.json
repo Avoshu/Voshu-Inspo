@@ -5428,5 +5428,50 @@
     "voshu_use": "Atlas canvas/document integration and Library knowledge UX reference; review backend/native license exceptions and sync authorization",
     "review_status": "Research verified; adoption pending license review",
     "notes": "Official upstream; README and root LICENSE inspected. Observed commit dc2b2212441602452f3cf0ea50a4eaedaf03bcc2 on 2026-11-17; exact latest push not verified."
+  },
+  {
+    "repo": "cloudflare/computer",
+    "url": "https://github.com/cloudflare/computer",
+    "purpose": "Durable Object-backed virtual filesystem with SQLite authoritative state and sandbox, isolate-shell, and codemode execution backends",
+    "category": "Agent Frameworks",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Commander/Host reference for stateful agent workspaces with bounded execution, capability budgets, and replay; compare against existing sandbox infrastructure",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Official Cloudflare upstream; README and root MIT license inspected; observed commit 3636ffb. Integration and dependency licensing not tested."
+  },
+  {
+    "repo": "proxmox/proxmox-datacenter-manager",
+    "url": "https://github.com/proxmox/proxmox-datacenter-manager",
+    "purpose": "Official centralized dashboard/API for multiple Proxmox VE and Backup Server remotes, resource status and guest lifecycle",
+    "category": "Infrastructure & DevOps",
+    "stars": null,
+    "language": null,
+    "license": "AGPL-3.0",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Voshu Host and Resource Manager reference for multi-cluster inventory, remote health, updates and controlled guest power operations; review AGPL obligations",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Official Proxmox upstream; README and root AGPL-3.0 inspected; observed commit e5347a4. No deployment or runtime testing."
+  },
+  {
+    "repo": "langchain-ai/deepagentsjs",
+    "url": "https://github.com/langchain-ai/deepagentsjs",
+    "purpose": "TypeScript agent harness with filesystem tools, planning and subagent patterns",
+    "category": "Agent Frameworks",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Agent 2.0 and Commander research reference for TypeScript task decomposition and file-edit guardrails; authorization must remain in Commander",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Official LangChain upstream; README and root MIT inspected; observed commit e261b7c. No code execution."
   }
 ]
