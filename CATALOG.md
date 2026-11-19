@@ -5,6 +5,7 @@ Auto-refreshed metadata; scores are discovery heuristics, not endorsements.
 | Repository | Purpose | Category | Stars | Last push | Voshu use |
 | [automerge/automerge-repo](https://github.com/automerge/automerge-repo) | CRDT document sync with pluggable storage and networking | Local-first & Realtime Sync | — | Updated Nov 16 (exact push unverified) | Atlas collaborative panes and Library annotations; evaluate permissions separately |
 |---|---|---|---:|---|---|
+| [huggingface/lerobot](https://github.com/huggingface/lerobot) | Robotics models, multimodal datasets, hardware control | Models & Inference | — | v0.7.0 Nov 5; latest push unverified | Future Compute/Agent action-data research; check dataset licenses |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Models & Inference | 262,932 | 2026-11-12 | Needs review |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host  | MCP & Integrations | 210,318 | 2026-11-12 | Needs review |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | Models & Inference | 201,245 | 2026-11-12 | Needs review |
