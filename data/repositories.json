@@ -5248,5 +5248,50 @@
     "voshu_use": "Study multi-provider coding-agent UX, sessions and developer workflow patterns for Voshu Commander toolkit; keep control-plane security separate.",
     "review_status": "Research candidate",
     "notes": "Original upstream README and root license inspected; observed commit 79bd2c6f11fd5ad011dbe5a1c31343c46e1e5294; no code executed."
+  },
+  {
+    "repo": "cloudflare/actors",
+    "url": "https://github.com/cloudflare/actors",
+    "purpose": "Cloudflare Durable Objects actor framework with persistent properties, lifecycle hooks and RPC",
+    "category": "Agent Orchestration & Durable Execution",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Reference for stateful Commander sessions and Agent 2.0 actors; compare against existing Proxmox-hosted orchestration and keep authorization external.",
+    "review_status": "README, root license and observed commit verified; runtime untested",
+    "notes": "Observed upstream commit https://github.com/cloudflare/actors/commit/6bbf82b239016ecb205d3b40ff1aa9b8c88b2fa7; exact latest push unverified"
+  },
+  {
+    "repo": "open-telemetry/semantic-conventions-genai",
+    "url": "https://github.com/open-telemetry/semantic-conventions-genai",
+    "purpose": "OpenTelemetry GenAI and MCP spans, metrics, and event conventions",
+    "category": "Observability & Security",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Standardize Router inference and Commander MCP tool-call telemetry; redact secrets and correlate agent sessions.",
+    "review_status": "README, root license and observed commit verified; runtime untested",
+    "notes": "Observed upstream commit https://github.com/open-telemetry/semantic-conventions-genai/commit/76e0c19e7fe11dc693fe258642363a438af4d3aa; exact latest push unverified"
+  },
+  {
+    "repo": "open-telemetry/weaver",
+    "url": "https://github.com/open-telemetry/weaver",
+    "purpose": "Schema-first telemetry registry tooling for OpenTelemetry semantic conventions",
+    "category": "Observability & Developer Tools",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-18",
+    "score": null,
+    "voshu_use": "Validate shared trace schemas across Commander, Router, Agent and Host; evaluate without executing upstream code.",
+    "review_status": "README, root license and observed commit verified; runtime untested",
+    "notes": "Observed upstream commit https://github.com/open-telemetry/weaver/commit/1f4c6bef3ef0c0851a770915efa52e1780fa0d82; exact latest push unverified"
   }
 ]
