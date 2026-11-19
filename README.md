@@ -494,3 +494,7 @@ Added 3 verified references for durable actors and GenAI telemetry. [Read the da
 ### November 19, 2026 scout update
 
 - [LeRobot](https://github.com/huggingface/lerobot) added as a verified long-term multimodal robotics and action-data reference; [dated report](reports/daily/2026-11-19-gpt-scout-0003.md). Current machine-readable catalog: **354 repositories**. Historical inventory is not a current local-drive audit.
+
+## GPT Scout — 2026-11-19 02:04 ET
+
+Three new research references: [rgthree-comfy](https://github.com/rgthree/rgthree-comfy), [LTXVideo ComfyUI nodes](https://github.com/Lightricks/ComfyUI-LTXVideo) (custom license), and [Pulse](https://github.com/rcourtman/Pulse). [Read the dated report](reports/daily/2026-11-19-gpt-scout-0204.md). Machine-readable catalog: 357 entries as of this pass. No Studios leads added.
