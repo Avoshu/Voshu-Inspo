@@ -506,3 +506,10 @@ Three new research references: [rgthree-comfy](https://github.com/rgthree/rgthre
 - [ComfyUI Sidebar Gallery](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) (MIT): output gallery with searchable workflow-derived generation metadata.
 
 These are architecture and UX references for Voshu Studios App, not installed or runtime-tested components. See [the dated report](reports/daily/2026-11-19-gpt-scout-0404.md).
+
+
+### GPT Scout discoveries — November 19, 2026 (06:04 ET)
+
+- [GitButler](https://github.com/gitbutlerapp/gitbutler): parallel Git branch workflows for Commander; FSL-1.1-MIT license requires review before reuse.
+- [AFFiNE](https://github.com/toeverything/AFFiNE): local-first collaborative workspace patterns for Atlas and Library; backend/native licensing differs from the main MIT-covered code.
+- [Dated evidence and constraints](reports/daily/2026-11-19-gpt-scout-0604.md). No code executed or F: drive audited.
