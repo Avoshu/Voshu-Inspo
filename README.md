@@ -513,3 +513,9 @@ These are architecture and UX references for Voshu Studios App, not installed or
 - [GitButler](https://github.com/gitbutlerapp/gitbutler): parallel Git branch workflows for Commander; FSL-1.1-MIT license requires review before reuse.
 - [AFFiNE](https://github.com/toeverything/AFFiNE): local-first collaborative workspace patterns for Atlas and Library; backend/native licensing differs from the main MIT-covered code.
 - [Dated evidence and constraints](reports/daily/2026-11-19-gpt-scout-0604.md). No code executed or F: drive audited.
+
+### GPT Scout — 2026-11-19 morning
+- [cloudflare/computer](https://github.com/cloudflare/computer): Commander/Host reference for stateful agent workspaces with bounded execution, capability budgets, and replay; compare against existing sandbox infrastructure.
+- [proxmox/proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager): Voshu Host and Resource Manager reference for multi-cluster inventory, remote health, updates and controlled guest power operations; review AGPL obligations.
+- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs): Agent 2.0 and Commander research reference for TypeScript task decomposition and file-edit guardrails; authorization must remain in Commander.
+- [Research and verification report](reports/daily/2026-11-19-gpt-scout-0800.md); shared Studios lead ledger unchanged.
