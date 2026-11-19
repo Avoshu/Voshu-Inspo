@@ -5293,5 +5293,20 @@
     "voshu_use": "Validate shared trace schemas across Commander, Router, Agent and Host; evaluate without executing upstream code.",
     "review_status": "README, root license and observed commit verified; runtime untested",
     "notes": "Observed upstream commit https://github.com/open-telemetry/weaver/commit/1f4c6bef3ef0c0851a770915efa52e1780fa0d82; exact latest push unverified"
+  },
+  {
+    "repo": "huggingface/lerobot",
+    "url": "https://github.com/huggingface/lerobot",
+    "purpose": "Python robotics training, datasets, and hardware-agnostic control interfaces",
+    "category": "Models & Inference",
+    "stars": null,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Long-term Voshu Compute/Agent reference: multimodal action datasets, hardware control abstractions, and simulation; not an immediate desktop integration",
+    "review_status": "Research verified; runtime not tested",
+    "notes": "Official Hugging Face upstream; README and root LICENSE checked. v0.7.0 release observed Nov 5 2026 (410c095); exact latest push not verified. Dataset licenses require separate checks."
   }
 ]
