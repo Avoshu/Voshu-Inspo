@@ -490,3 +490,7 @@ Two official Temporal references added: [AI integrations](https://github.com/tem
 ## GPT Scout — November 18 evening
 
 Added 3 verified references for durable actors and GenAI telemetry. [Read the dated report](reports/daily/2026-11-18-gpt-scout-2203.md). The historical local inventory is not a current drive audit.
+
+### November 19, 2026 scout update
+
+- [LeRobot](https://github.com/huggingface/lerobot) added as a verified long-term multimodal robotics and action-data reference; [dated report](reports/daily/2026-11-19-gpt-scout-0003.md). Current machine-readable catalog: **354 repositories**. Historical inventory is not a current local-drive audit.
