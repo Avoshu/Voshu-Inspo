@@ -5474,4 +5474,50 @@
     "review_status": "Research verified; adoption pending review",
     "notes": "Official LangChain upstream; README and root MIT inspected; observed commit e261b7c. No code execution."
   }
+,
+  {
+    "repo": "vercel/workflow",
+    "url": "https://github.com/vercel/workflow",
+    "purpose": "Durable TypeScript workflows with persisted progress, retries and suspension",
+    "category": "Durable Orchestration",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Commander approval waits and Studios render jobs; evaluate Postgres backend and idempotency",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Public non-archived upstream; README and root license inspected; observed commit 7d710a5aeca7581b6b941715486f804a3433c75b at 2026-11-20T00:49:50Z; exact push unverified."
+  },
+  {
+    "repo": "google/adk-go",
+    "url": "https://github.com/google/adk-go",
+    "purpose": "Code-first Go agent toolkit with modular agent composition",
+    "category": "Agent Frameworks",
+    "stars": null,
+    "language": null,
+    "license": "Apache-2.0",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Agent 2.0 orchestration reference; keep authorization in Commander; internal/httprr license exception",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Public non-archived upstream; README and root license inspected; observed commit cfc650b00f63c989a2a5f5fb03c28a8cd60ceb2e at 2026-11-19T22:13:30Z; exact push unverified."
+  },
+  {
+    "repo": "jdx/mise",
+    "url": "https://github.com/jdx/mise",
+    "purpose": "Developer tool version and task management",
+    "category": "Developer Tools",
+    "stars": null,
+    "language": null,
+    "license": "MIT",
+    "last_push": null,
+    "last_checked": "2026-11-19",
+    "score": null,
+    "voshu_use": "Reproducible devbox toolchains; explicit trust for project task configs",
+    "review_status": "Research verified; adoption pending review",
+    "notes": "Public non-archived upstream; README and root license inspected; observed commit a0b456c3fc8db86baf106d2c075f3623015622d7 at 2026-11-20T02:59:35Z; exact push unverified."
+  }
 ]
