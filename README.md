@@ -519,3 +519,10 @@ These are architecture and UX references for Voshu Studios App, not installed or
 - [proxmox/proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager): Voshu Host and Resource Manager reference for multi-cluster inventory, remote health, updates and controlled guest power operations; review AGPL obligations.
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs): Agent 2.0 and Commander research reference for TypeScript task decomposition and file-edit guardrails; authorization must remain in Commander.
 - [Research and verification report](reports/daily/2026-11-19-gpt-scout-0800.md); shared Studios lead ledger unchanged.
+
+### November 19 evening scout
+
+- [vercel/workflow](https://github.com/vercel/workflow) — Apache-2.0; Durable TypeScript workflows with persisted progress, retries and suspension. Commander approval waits and Studios render jobs; evaluate Postgres backend and idempotency. Observed [commit](https://github.com/vercel/workflow/commit/7d710a5aeca7581b6b941715486f804a3433c75b) 2026-11-20T00:49:50Z.
+- [google/adk-go](https://github.com/google/adk-go) — Apache-2.0; Code-first Go agent toolkit with modular agent composition. Agent 2.0 orchestration reference; keep authorization in Commander; internal/httprr license exception. Observed [commit](https://github.com/google/adk-go/commit/cfc650b00f63c989a2a5f5fb03c28a8cd60ceb2e) 2026-11-19T22:13:30Z.
+- [jdx/mise](https://github.com/jdx/mise) — MIT; Developer tool version and task management. Reproducible devbox toolchains; explicit trust for project task configs. Observed [commit](https://github.com/jdx/mise/commit/a0b456c3fc8db86baf106d2c075f3623015622d7) 2026-11-20T02:59:35Z.
+- [Research report](reports/daily/2026-11-19-gpt-scout-2200.md)
